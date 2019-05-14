@@ -1,0 +1,48 @@
+﻿20:04:34 BattlEye Server: Initialized (v1.217)
+20:04:34 Host identity created.
+20:04:34 Game Port: 2302, Steam Query Port: 2303
+20:04:34 Mission Exile.Chernarus read from bank.
+20:04:35 Roles assigned.
+20:04:35 Reading mission ...
+20:04:47 Mission read.
+20:04:47 Aurora uses modified data file
+20:04:47 BattlEye Server: Player #0 Aurora (10.0.1.58:2304) connected
+20:04:47 Player Aurora connecting.
+20:04:48 Successfull attempt to execute serverCommand '#exec users' by server.
+20:04:48 Successfull attempt to execute serverCommand '#exec users' by server.
+20:04:48 Game started.
+20:04:49 BattlEye Server: Player #0 Aurora - GUID: 7621bfa5b2b21da80a898c49f77751e1
+20:04:49 Player Aurora connected (id=76561198072397859).
+20:04:49 BattlEye Server: Verified GUID (7621bfa5b2b21da80a898c49f77751e1) of player #0 Aurora
+21:41:09 A. Stec uses modified data file
+21:41:09 BattlEye Server: Player #1 A. Stec (69.246.219.197:2304) connected
+21:41:09 Player A. Stec connecting.
+21:41:10 BattlEye Server: Player #1 A. Stec - GUID: 25f373fecd8cd466954da527c631a36c
+21:41:13 Player A. Stec connected (id=76561198100309836).
+21:41:13 BattlEye Server: Verified GUID (25f373fecd8cd466954da527c631a36c) of player #1 A. Stec
+21:41:13 Player A. Stec disconnected.
+21:41:13 BattlEye Server: Player #1 A. Stec disconnected
+21:41:19 A. Stec uses modified data file
+21:41:19 BattlEye Server: Player #1 A. Stec (69.246.219.197:2304) connected
+21:41:19 Player A. Stec connecting.
+21:41:21 BattlEye Server: Player #1 A. Stec - GUID: 25f373fecd8cd466954da527c631a36c
+21:41:22 Player A. Stec connected (id=76561198100309836).
+21:41:22 BattlEye Server: Verified GUID (25f373fecd8cd466954da527c631a36c) of player #1 A. Stec
+21:41:22 Player A. Stec disconnected.
+21:41:22 BattlEye Server: Player #1 A. Stec disconnected
+21:42:40 A. Stec uses modified data file
+21:42:40 BattlEye Server: Player #1 A. Stec (69.246.219.197:2304) connected
+21:42:40 Player A. Stec connecting.
+21:42:41 BattlEye Server: Player #1 A. Stec - GUID: 25f373fecd8cd466954da527c631a36c
+21:42:43 Player A. Stec connected (id=76561198100309836).
+21:42:43 BattlEye Server: Verified GUID (25f373fecd8cd466954da527c631a36c) of player #1 A. Stec
+21:59:53 Player A. Stec: Wrong signature for file addons\baseconfig_f.pbo
+21:59:53 Player A. Stec disconnected.
+21:59:53 BattlEye Server: Player #1 A. Stec disconnected
+22:00:11 A. Stec uses modified data file
+22:00:11 BattlEye Server: Player #1 A. Stec (69.246.219.197:2304) connected
+22:00:12 Player A. Stec connecting.
+22:00:13 BattlEye Server: Player #1 A. Stec - GUID: 25f373fecd8cd466954da527c631a36c
+22:00:15 Player A. Stec connected (id=76561198100309836).
+22:00:15 BattlEye Server: Verified GUID (25f373fecd8cd466954da527c631a36c) of player #1 A. Stec
+23:03:28 Successfull attempt to execute serverCommand '#shutdown' by server.

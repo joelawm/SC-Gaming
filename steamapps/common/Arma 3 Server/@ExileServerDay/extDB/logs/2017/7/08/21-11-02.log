@@ -1,0 +1,22 @@
+extDB2: Version: 70
+extDB2: https://github.com/Torndeco/extDB2
+extDB2: Windows Version
+Message: All development for extDB2 is done on a Linux Dedicated Server
+Message: If you would like to Donate to extDB2 Development
+Message: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2SUEFTGABTAM2
+Message: Also leave a message if there is any particular feature you would like to see added.
+Message: Thanks for all the people that have donated.
+Message: Torndeco: 20/02/15
+
+
+extDB2: Found extdb-conf.ini
+extDB2: Detected 2 Cores, Setting up 2 Worker Threads
+
+
+[16:11:04:285783 --5:00] [Thread 8312] extDB2: Database Type: MySQL
+[16:11:04:304977 --5:00] [Thread 8312] extDB2: Database Session Pool Started
+[16:11:04:314827 --5:00] [Thread 8312] extDB2: SQL_CUSTOM_V2: Loading Template Filename: C:\Users\xdelt\Desktop\Exile Server Chernarus\steamapps\common\Arma 3 Server\@ExileServerDay\extDB\sql_custom_v2\exile.ini
+[16:11:04:315092 --5:00] [Thread 8312] extDB2: SQL_CUSTOM_V2: Version 12 Detected, Latest Version 12 Available
+[16:11:05:066946 --5:00] [Thread 492] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:SuperChil Dayz Exile  Chernarus |Humanity|Deploy Bike|:SERVER_INFO:[SERVER START] TIME  0.175 || EMAIL  joelawm@gmail.com || VERSION  07-Mar-2017 20-28-27 - v0073 || Local Server Time  [2017,7,8,16,11]
+[16:11:05:067112 --5:00] [Thread 492] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[16:44:41:470003 --5:00] [Thread 8312] extDB2: Stopping ...

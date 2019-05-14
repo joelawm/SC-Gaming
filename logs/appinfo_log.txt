@@ -1,0 +1,32 @@
+
+
+[2017-05-20 22:29:12] RequestAppInfoUpdate: nNumAppIDs 1
+[2017-05-20 22:29:12] ProductInfoChanges: change number 0->3003494, apps: 0/0, packages: 0/0
+[2017-05-20 22:29:13] UpdatesJob: requesting 1 apps, 83 packages (meta data, 1024 prev attempts)
+[2017-05-20 22:29:13] UpdatesJob: requesting 1 apps, 83 packages (full data, 1024 prev attempts)
+[2017-05-20 22:29:13] UpdatesJob: finished OK, nAppsUpdated 1 (2 KB), nPackagesUpdated 83 (24 KB)
+[2017-05-20 22:29:13] UpdatesJob: requesting 339 apps, 0 packages (meta data, 1024 prev attempts)
+[2017-05-20 22:29:13] UpdatesJob: requested 48 access tokens, 46 received, 2 denied
+[2017-05-20 22:29:14] UpdatesJob: updated SHAs with 46 new access tokens
+[2017-05-20 22:29:15] UpdatesJob: downloaded 24 apps via HTTP, 531 KB (142 KB compressed)
+[2017-05-20 22:29:15] UpdatesJob: requesting 315 apps, 0 packages (full data, 1024 prev attempts)
+[2017-05-20 22:29:17] UpdatesJob: finished OK, nAppsUpdated 339 (1183 KB), nPackagesUpdated 0 (0 KB)
+[2017-05-20 22:29:17] RequestAppInfoUpdate: nNumAppIDs 1
+[2017-05-20 22:29:17] UpdatesJob: requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2017-05-20 22:29:17] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2017-05-20 22:29:32] Starting async write C:\Users\xdelt\Desktop\Exile Server Chernarus/appcache/appinfo.vdf (883231 bytes)
+
+
+[2017-06-22 17:51:23] RequestAppInfoUpdate: nNumAppIDs 1
+[2017-06-22 17:51:23] ProductInfoChanges: change number 3003494->3114389, apps: 0/0, packages: 0/0
+[2017-06-22 17:51:23] UpdatesJob: requesting 340 apps, 83 packages (meta data, 1024 prev attempts)
+[2017-06-22 17:51:24] UpdatesJob: requested 2 access tokens, 0 received, 2 denied
+[2017-06-22 17:51:25] RequestAppInfoUpdate: nNumAppIDs 1
+[2017-06-22 17:51:25] UpdatesJob: downloaded 27 apps via HTTP, 567 KB (153 KB compressed)
+[2017-06-22 17:51:25] UpdatesJob: requesting 106 apps, 4 packages (full data, 1024 prev attempts)
+[2017-06-22 17:51:26] UpdatesJob: finished OK, nAppsUpdated 133 (955 KB), nPackagesUpdated 4 (9 KB)
+[2017-06-22 17:51:26] UpdatesJob: requesting 5 apps, 0 packages (meta data, 1024 prev attempts)
+[2017-06-22 17:51:27] UpdatesJob: requested 1 access tokens, 0 received, 1 denied
+[2017-06-22 17:51:27] UpdatesJob: requesting 5 apps, 0 packages (full data, 1024 prev attempts)
+[2017-06-22 17:51:27] UpdatesJob: finished OK, nAppsUpdated 5 (2 KB), nPackagesUpdated 0 (0 KB)
+[2017-06-22 17:51:42] Starting async write C:\Users\xdelt\Desktop\Exile Server Chernarus/appcache/appinfo.vdf (902248 bytes)

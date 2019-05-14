@@ -1,0 +1,35 @@
+﻿23:40:23 BattlEye Server: Initialized (v1.216)
+23:40:23 Host identity created.
+23:40:23 Game Port: 2302, Steam Query Port: 2303
+23:40:23 Mission Exile.Chernarus read from bank.
+23:40:24 Roles assigned.
+23:40:24 Reading mission ...
+23:40:36 Script effect.sqf not found
+23:40:37 Successfull attempt to execute serverCommand '#exec users' by server.
+23:40:37 Successfull attempt to execute serverCommand '#exec users' by server.
+23:40:37 Game started.
+23:40:41 Aurora uses modified data file
+23:40:41 BattlEye Server: Player #0 Aurora (10.0.1.46:2304) connected
+23:40:41 Player Aurora connecting.
+23:40:41 BattlEye Server: Connected to BE Master
+23:40:42 BattlEye Server: Player #0 Aurora - GUID: 7621bfa5b2b21da80a898c49f77751e1
+23:40:43 Player Aurora connected (id=76561198072397859).
+23:40:43 BattlEye Server: Verified GUID (7621bfa5b2b21da80a898c49f77751e1) of player #0 Aurora
+23:40:55 A. Stec uses modified data file
+23:40:55 BattlEye Server: Player #1 A. Stec (69.246.219.197:2304) connected
+23:40:55 Player A. Stec connecting.
+23:40:57 BattlEye Server: Player #1 A. Stec - GUID: 25f373fecd8cd466954da527c631a36c
+23:41:02 Player A. Stec connected (id=76561198100309836).
+23:41:02 BattlEye Server: Verified GUID (25f373fecd8cd466954da527c631a36c) of player #1 A. Stec
+23:41:13 Player Aurora disconnected.
+23:41:13 BattlEye Server: Player #0 Aurora disconnected
+ 0:40:37 BattlEye Server: Initialized (v1.215)
+ 0:40:37 Host identity created.
+ 0:40:37 Game Port: 2302, Steam Query Port: 2303
+ 0:40:37 Mission Exile.Chernarus read from bank.
+ 0:40:37 Roles assigned.
+ 0:40:37 Reading mission ...
+ 0:40:52 Mission read.
+ 0:40:52 Successfull attempt to execute serverCommand '#exec users' by server.
+ 0:40:52 Successfull attempt to execute serverCommand '#exec users' by server.
+ 0:40:52 Game started.

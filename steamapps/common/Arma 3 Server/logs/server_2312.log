@@ -1,0 +1,37 @@
+﻿ 1:22:19 BattlEye Server: Initialized (v1.215)
+ 1:22:19 Host identity created.
+ 1:22:19 Game Port: 2302, Steam Query Port: 2303
+ 1:22:19 Mission Exile.Chernarus read from bank.
+ 1:22:20 Roles assigned.
+ 1:22:20 Reading mission ...
+ 1:22:34 Mission read.
+ 1:22:34 Successfull attempt to execute serverCommand '#exec users' by server.
+ 1:22:34 Successfull attempt to execute serverCommand '#exec users' by server.
+ 1:22:34 Game started.
+ 1:22:39 Aurora uses modified data file
+ 1:22:39 BattlEye Server: Player #0 Aurora (10.0.1.46:2304) connected
+ 1:22:39 Player Aurora connecting.
+ 1:22:40 BattlEye Server: Player #0 Aurora - GUID: 7621bfa5b2b21da80a898c49f77751e1
+ 1:22:41 Player Aurora connected (id=76561198072397859).
+ 1:22:41 BattlEye Server: Verified GUID (7621bfa5b2b21da80a898c49f77751e1) of player #0 Aurora
+ 1:22:43 A. Stec uses modified data file
+ 1:22:43 BattlEye Server: Player #1 A. Stec (69.246.219.197:2304) connected
+ 1:22:43 Player A. Stec connecting.
+ 1:22:59 Player A. Stec disconnected.
+ 1:22:59 BattlEye Server: Player #1 A. Stec disconnected
+ 1:23:07 A. Stec uses modified data file
+ 1:23:07 BattlEye Server: Player #1 A. Stec (69.246.219.197:2304) connected
+ 1:23:07 Player A. Stec connecting.
+ 1:23:08 BattlEye Server: Player #1 A. Stec - GUID: 25f373fecd8cd466954da527c631a36c
+ 1:23:10 Player A. Stec connected (id=76561198100309836).
+ 1:23:10 BattlEye Server: Verified GUID (25f373fecd8cd466954da527c631a36c) of player #1 A. Stec
+ 1:43:35 Player Aurora disconnected.
+ 1:43:35 BattlEye Server: Player #0 Aurora disconnected
+ 1:43:37 Aurora uses modified data file
+ 1:43:37 BattlEye Server: Player #0 Aurora (10.0.1.46:2304) connected
+ 1:43:38 Player Aurora connecting.
+ 1:43:39 BattlEye Server: Player #0 Aurora - GUID: 7621bfa5b2b21da80a898c49f77751e1
+ 1:43:39 Player Aurora connected (id=76561198072397859).
+ 1:43:39 BattlEye Server: Verified GUID (7621bfa5b2b21da80a898c49f77751e1) of player #0 Aurora
+ 1:47:37 Player Aurora disconnected.
+ 1:47:37 BattlEye Server: Player #0 Aurora disconnected

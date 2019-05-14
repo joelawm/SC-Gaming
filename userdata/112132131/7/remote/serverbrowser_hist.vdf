@@ -1,0 +1,642 @@
+"Filters"
+{
+	"favorites"
+	{
+		"1"
+		{
+			"name"		"66.55.158.195:27017"
+			"address"		"66.55.158.195:27017"
+			"LastPlayed"		"1434605887"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+	}
+	"history"
+	{
+		"1"
+		{
+			"name"		"66.55.158.195:27017"
+			"address"		"66.55.158.195:27017"
+			"LastPlayed"		"1434605887"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"2"
+		{
+			"name"		"66.151.244.233:2303"
+			"address"		"66.151.244.233:2303"
+			"LastPlayed"		"1476570393"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"3"
+		{
+			"name"		"8.6.77.116:27017"
+			"address"		"8.6.77.116:27017"
+			"LastPlayed"		"1419115007"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"4"
+		{
+			"name"		"167.114.0.55:2303"
+			"address"		"167.114.0.55:2303"
+			"LastPlayed"		"1425186110"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"5"
+		{
+			"name"		"5.196.77.99:3501"
+			"address"		"5.196.77.99:3501"
+			"LastPlayed"		"1436317980"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"6"
+		{
+			"name"		"209.126.106.187:2303"
+			"address"		"209.126.106.187:2303"
+			"LastPlayed"		"1427746843"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"7"
+		{
+			"name"		"216.52.148.230:2303"
+			"address"		"216.52.148.230:2303"
+			"LastPlayed"		"1427774458"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"8"
+		{
+			"name"		"108.61.31.85:2303"
+			"address"		"108.61.31.85:2303"
+			"LastPlayed"		"1459458629"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"9"
+		{
+			"name"		"31.186.251.92:2303"
+			"address"		"31.186.251.92:2303"
+			"LastPlayed"		"1492998282"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"10"
+		{
+			"name"		"216.231.138.145:27116"
+			"address"		"216.231.138.145:27116"
+			"LastPlayed"		"1428800515"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"11"
+		{
+			"name"		"208.78.166.81:27024"
+			"address"		"208.78.166.81:27024"
+			"LastPlayed"		"1433127464"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"12"
+		{
+			"name"		"208.78.165.16:27016"
+			"address"		"208.78.165.16:27016"
+			"LastPlayed"		"1433129816"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"13"
+		{
+			"name"		"0.0.0.1:27015"
+			"address"		"0.0.0.1:27015"
+			"LastPlayed"		"1433341574"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"14"
+		{
+			"name"		"0.0.0.2:27015"
+			"address"		"0.0.0.2:27015"
+			"LastPlayed"		"1433342401"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"15"
+		{
+			"name"		"0.0.0.3:27015"
+			"address"		"0.0.0.3:27015"
+			"LastPlayed"		"1433343759"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"16"
+		{
+			"name"		"208.78.165.188:27019"
+			"address"		"208.78.165.188:27019"
+			"LastPlayed"		"1433346579"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"17"
+		{
+			"name"		"66.55.131.115:27017"
+			"address"		"66.55.131.115:27017"
+			"LastPlayed"		"1434483149"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"18"
+		{
+			"name"		"69.162.125.18:27216"
+			"address"		"69.162.125.18:27216"
+			"LastPlayed"		"1434606258"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"19"
+		{
+			"name"		"206.221.186.250:2303"
+			"address"		"206.221.186.250:2303"
+			"LastPlayed"		"1436292027"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"20"
+		{
+			"name"		"37.187.143.168:4001"
+			"address"		"37.187.143.168:4001"
+			"LastPlayed"		"1439682211"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"21"
+		{
+			"name"		"176.31.182.149:2303"
+			"address"		"176.31.182.149:2303"
+			"LastPlayed"		"1458006833"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"22"
+		{
+			"name"		"192.99.19.215:3001"
+			"address"		"192.99.19.215:3001"
+			"LastPlayed"		"1440556692"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"23"
+		{
+			"name"		"37.187.141.100:3001"
+			"address"		"37.187.141.100:3001"
+			"LastPlayed"		"1439588172"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"24"
+		{
+			"name"		"167.114.102.206:2303"
+			"address"		"167.114.102.206:2303"
+			"LastPlayed"		"1440557310"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"25"
+		{
+			"name"		"185.38.151.47:2403"
+			"address"		"185.38.151.47:2403"
+			"LastPlayed"		"1454228923"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"26"
+		{
+			"name"		"192.223.29.245:2313"
+			"address"		"192.223.29.245:2313"
+			"LastPlayed"		"1490739644"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"27"
+		{
+			"name"		"74.91.123.206:2303"
+			"address"		"74.91.123.206:2303"
+			"LastPlayed"		"1448424732"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"28"
+		{
+			"name"		"198.27.75.60:2303"
+			"address"		"198.27.75.60:2303"
+			"LastPlayed"		"1452975088"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"29"
+		{
+			"name"		"198.24.161.203:2303"
+			"address"		"198.24.161.203:2303"
+			"LastPlayed"		"1470733772"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"30"
+		{
+			"name"		"185.38.151.47:2303"
+			"address"		"185.38.151.47:2303"
+			"LastPlayed"		"1454141227"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"31"
+		{
+			"name"		"158.69.23.49:2303"
+			"address"		"158.69.23.49:2303"
+			"LastPlayed"		"1456445227"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"32"
+		{
+			"name"		"192.198.102.234:2303"
+			"address"		"192.198.102.234:2303"
+			"LastPlayed"		"1459531102"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"33"
+		{
+			"name"		"62.210.84.121:2323"
+			"address"		"62.210.84.121:2323"
+			"LastPlayed"		"1460317853"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"34"
+		{
+			"name"		"88.150.201.28:2303"
+			"address"		"88.150.201.28:2303"
+			"LastPlayed"		"1460423067"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"35"
+		{
+			"name"		"81.94.195.180:2303"
+			"address"		"81.94.195.180:2303"
+			"LastPlayed"		"1460513212"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"36"
+		{
+			"name"		"188.227.161.203:2303"
+			"address"		"188.227.161.203:2303"
+			"LastPlayed"		"1461193792"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"37"
+		{
+			"name"		"137.205.124.242:2303"
+			"address"		"137.205.124.242:2303"
+			"LastPlayed"		"1461353663"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"38"
+		{
+			"name"		"149.202.86.4:2323"
+			"address"		"149.202.86.4:2323"
+			"LastPlayed"		"1463765763"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"39"
+		{
+			"name"		"217.198.134.34:2303"
+			"address"		"217.198.134.34:2303"
+			"LastPlayed"		"1466491051"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"40"
+		{
+			"name"		"199.60.101.130:2333"
+			"address"		"199.60.101.130:2333"
+			"LastPlayed"		"1470614885"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"41"
+		{
+			"name"		"216.105.171.218:2303"
+			"address"		"216.105.171.218:2303"
+			"LastPlayed"		"1465096882"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"42"
+		{
+			"name"		"149.56.167.67:2303"
+			"address"		"149.56.167.67:2303"
+			"LastPlayed"		"1465177380"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"43"
+		{
+			"name"		"162.248.92.71:2321"
+			"address"		"162.248.92.71:2321"
+			"LastPlayed"		"1465181738"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"44"
+		{
+			"name"		"10.0.1.115:2303"
+			"address"		"10.0.1.115:2303"
+			"LastPlayed"		"1466499212"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"45"
+		{
+			"name"		"127.0.0.1:2303"
+			"address"		"127.0.0.1:2303"
+			"LastPlayed"		"1466500030"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"46"
+		{
+			"name"		"10.0.1.38:2303"
+			"address"		"10.0.1.38:2303"
+			"LastPlayed"		"1466582250"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"47"
+		{
+			"name"		"45.59.69.210:27600"
+			"address"		"45.59.69.210:27600"
+			"LastPlayed"		"1468721900"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"48"
+		{
+			"name"		"66.55.158.137:27017"
+			"address"		"66.55.158.137:27017"
+			"LastPlayed"		"1470603408"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"49"
+		{
+			"name"		"164.132.200.153:2303"
+			"address"		"164.132.200.153:2303"
+			"LastPlayed"		"1477874392"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"50"
+		{
+			"name"		"69.162.68.146:2323"
+			"address"		"69.162.68.146:2323"
+			"LastPlayed"		"1471295806"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"51"
+		{
+			"name"		"199.231.210.243:2303"
+			"address"		"199.231.210.243:2303"
+			"LastPlayed"		"1476302558"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"52"
+		{
+			"name"		"74.91.113.149:2303"
+			"address"		"74.91.113.149:2303"
+			"LastPlayed"		"1476493175"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"53"
+		{
+			"name"		"158.69.185.40:2303"
+			"address"		"158.69.185.40:2303"
+			"LastPlayed"		"1493259922"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"54"
+		{
+			"name"		"66.150.121.120:2303"
+			"address"		"66.150.121.120:2303"
+			"LastPlayed"		"1477780888"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"55"
+		{
+			"name"		"108.61.238.254:27017"
+			"address"		"108.61.238.254:27017"
+			"LastPlayed"		"1477013828"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"56"
+		{
+			"name"		"198.204.233.106:2303"
+			"address"		"198.204.233.106:2303"
+			"LastPlayed"		"1477170271"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"57"
+		{
+			"name"		"158.69.123.71:2303"
+			"address"		"158.69.123.71:2303"
+			"LastPlayed"		"1494732095"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"58"
+		{
+			"name"		"149.56.242.186:2303"
+			"address"		"149.56.242.186:2303"
+			"LastPlayed"		"1494999737"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"59"
+		{
+			"name"		"158.69.123.187:2303"
+			"address"		"158.69.123.187:2303"
+			"LastPlayed"		"1494186197"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"60"
+		{
+			"name"		"149.56.106.193:2303"
+			"address"		"149.56.106.193:2303"
+			"LastPlayed"		"1488768561"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"61"
+		{
+			"name"		"10.0.1.29:2303"
+			"address"		"10.0.1.29:2303"
+			"LastPlayed"		"1498026034"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"62"
+		{
+			"name"		"10.0.1.29:2315"
+			"address"		"10.0.1.29:2315"
+			"LastPlayed"		"1489431173"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"63"
+		{
+			"name"		"10.0.1.27:2303"
+			"address"		"10.0.1.27:2303"
+			"LastPlayed"		"1489538778"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"64"
+		{
+			"name"		"149.202.86.153:2403"
+			"address"		"149.202.86.153:2403"
+			"LastPlayed"		"1491430287"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"65"
+		{
+			"name"		"45.59.67.236:2303"
+			"address"		"45.59.67.236:2303"
+			"LastPlayed"		"1491456640"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"66"
+		{
+			"name"		"158.69.22.168:2403"
+			"address"		"158.69.22.168:2403"
+			"LastPlayed"		"1491428189"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"67"
+		{
+			"name"		"45.59.69.46:2303"
+			"address"		"45.59.69.46:2303"
+			"LastPlayed"		"1491278065"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"68"
+		{
+			"name"		"8.26.94.142:2503"
+			"address"		"8.26.94.142:2503"
+			"LastPlayed"		"1491456360"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"69"
+		{
+			"name"		"8.26.94.137:2303"
+			"address"		"8.26.94.137:2303"
+			"LastPlayed"		"1491182217"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"70"
+		{
+			"name"		"45.59.67.163:2303"
+			"address"		"45.59.67.163:2303"
+			"LastPlayed"		"1491425494"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"71"
+		{
+			"name"		"149.202.86.111:2303"
+			"address"		"149.202.86.111:2303"
+			"LastPlayed"		"1491358967"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"72"
+		{
+			"name"		"109.70.149.39:2603"
+			"address"		"109.70.149.39:2603"
+			"LastPlayed"		"1491451447"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"73"
+		{
+			"name"		"45.59.68.69:2303"
+			"address"		"45.59.68.69:2303"
+			"LastPlayed"		"1491451550"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"74"
+		{
+			"name"		"8.26.94.137:2403"
+			"address"		"8.26.94.137:2403"
+			"LastPlayed"		"1491451915"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"75"
+		{
+			"name"		"198.12.65.82:27016"
+			"address"		"198.12.65.82:27016"
+			"LastPlayed"		"1494168951"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"76"
+		{
+			"name"		"149.56.242.186:2315"
+			"address"		"149.56.242.186:2315"
+			"LastPlayed"		"1494824279"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"77"
+		{
+			"name"		"149.56.29.117:2313"
+			"address"		"149.56.29.117:2313"
+			"LastPlayed"		"1495003642"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"78"
+		{
+			"name"		"10.0.1.121:2303"
+			"address"		"10.0.1.121:2303"
+			"LastPlayed"		"1498163772"
+			"appid"		"107410"
+			"accountid"		"0"
+		}
+	}
+	"lastupdate"		"1498163772"
+}

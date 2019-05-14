@@ -1,0 +1,1 @@
+"Filmic" setToneMappingParams [0.2, 0.30, 0.20, 0.30, 0.01, 3.750, 6, 4]

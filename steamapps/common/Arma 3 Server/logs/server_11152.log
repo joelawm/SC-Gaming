@@ -1,0 +1,44 @@
+﻿21:51:52 BattlEye Server: Initialized (v1.216)
+21:51:52 Host identity created.
+21:51:52 Game Port: 2302, Steam Query Port: 2303
+21:51:52 Mission Exile.Chernarus read from bank.
+21:51:53 Roles assigned.
+21:51:53 Reading mission ...
+21:52:06 Mission read.
+21:52:06 Successfull attempt to execute serverCommand '#exec users' by server.
+21:52:06 Successfull attempt to execute serverCommand '#exec users' by server.
+21:52:06 Game started.
+21:52:15 Aurora uses modified data file
+21:52:15 BattlEye Server: Player #0 Aurora (10.0.1.46:2304) connected
+21:52:15 Player Aurora connecting.
+21:52:17 BattlEye Server: Player #0 Aurora - GUID: 7621bfa5b2b21da80a898c49f77751e1
+21:52:17 Player Aurora connected (id=76561198072397859).
+21:52:17 BattlEye Server: Verified GUID (7621bfa5b2b21da80a898c49f77751e1) of player #0 Aurora
+21:55:14 BattlEye Server: Update successfully completed. Restarting...
+21:55:14 BattlEye Server: Initialized (v1.217)
+21:55:14 BattlEye Server: Player #0 Aurora (10.0.1.46:2304) connected
+21:55:14 BattlEye Server: Player #0 Aurora - GUID: 7621bfa5b2b21da80a898c49f77751e1
+22:03:09 Player Aurora disconnected.
+22:03:09 BattlEye Server: Player #0 Aurora disconnected
+22:03:37 grimm9 uses modified data file
+22:03:37 BattlEye Server: Player #0 grimm9 (10.0.1.122:2304) connected
+22:03:37 Player grimm9 connecting.
+22:03:39 BattlEye Server: Player #0 grimm9 - GUID: c1f2782516b769e5f712045ad7343672
+22:03:39 Player grimm9 connected (id=76561198039386396).
+22:03:39 BattlEye Server: Verified GUID (c1f2782516b769e5f712045ad7343672) of player #0 grimm9
+22:04:01 Aurora uses modified data file
+22:04:01 BattlEye Server: Player #1 Aurora (10.0.1.46:2304) connected
+22:04:01 Player Aurora connecting.
+22:04:02 BattlEye Server: Player #1 Aurora - GUID: 7621bfa5b2b21da80a898c49f77751e1
+22:04:03 Player Aurora connected (id=76561198072397859).
+22:04:03 BattlEye Server: Verified GUID (7621bfa5b2b21da80a898c49f77751e1) of player #1 Aurora
+22:06:33 Successfull attempt to execute serverCommand '#kick 76561198039386396' by server.
+22:06:33 Player grimm9 disconnected.
+22:06:33 BattlEye Server: Player #0 grimm9 disconnected
+22:06:41 grimm9 uses modified data file
+22:06:41 BattlEye Server: Player #2 grimm9 (10.0.1.122:2304) connected
+22:06:42 Player grimm9 connecting.
+22:06:43 BattlEye Server: Player #2 grimm9 - GUID: c1f2782516b769e5f712045ad7343672
+22:06:43 Player grimm9 connected (id=76561198039386396).
+22:06:43 BattlEye Server: Verified GUID (c1f2782516b769e5f712045ad7343672) of player #2 grimm9
+ 0:50:48 Successfull attempt to execute serverCommand '#shutdown' by server.

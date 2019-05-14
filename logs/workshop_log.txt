@@ -1,0 +1,7 @@
+
+
+[2017-05-20 22:29:12] Loading workshop items for 0 installed apps for user [U:1:112132131]:
+[2017-05-20 22:29:17] [AppID 233780] Loaded workshop items in "C:\Users\xdelt\Desktop\Exile Server Chernarus\steamapps\workshop" (0 installed, 0 needed)
+
+
+[2017-06-22 17:51:21] Loading workshop items for 1 installed apps for user [U:1:112132131]:

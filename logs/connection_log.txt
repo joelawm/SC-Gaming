@@ -1,0 +1,37 @@
+
+
+[2017-05-20 22:28:11] Log session started
+[2017-05-20 22:28:11] [0,0] SetSteamID( [U:1:0] )
+[2017-05-20 22:28:11] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2017-05-20 22:28:12] [0,0] SetSteamID( [U:1:0] )
+[2017-05-20 22:28:12] [0,0] SetSteamID( [U:1:0] )
+[2017-05-20 22:28:12] CCMInterface::YieldingConnect -- no CMs cached locally, calling ISteamDirectory/GetCMList web api. . .
+[2017-05-20 22:28:13] CCMInterface::YieldingConnect -- got 100 CMs from ISteamDirectory/GetCMList.
+[2017-05-20 22:28:13] [1,2] Connect() starting connection (eNetQOSLevelHigh, 162.254.193.6:27019, UDP)
+[2017-05-20 22:28:17] [1,2] ConnectionCompleted() (162.254.193.6:27019, UDP)
+[2017-05-20 22:28:17] [1,2] RecvMsgClientLogOnResponse() : [U:1:112132131] 'Account Logon Denied'
+[2017-05-20 22:28:17] [1,2] AsyncDisconnect()
+[2017-05-20 22:28:17] [0,0] ConnectionDisconnected('Disconnected By Remote Host') : 'Account Logon Denied' (162.254.193.6:27019, UDP)
+[2017-05-20 22:28:17] [0,0] ConnectionDisconnected() not auto reconnecting due to eResultLogonSession specifies no reconnect
+[2017-05-20 22:29:11] [0,0] SetSteamID( [U:1:0] )
+[2017-05-20 22:29:11] [1,10] Connect() starting connection (eNetQOSLevelHigh, 162.254.193.6:27019, UDP)
+[2017-05-20 22:29:12] [1,10] ConnectionCompleted() (162.254.193.6:27021, UDP)
+[2017-05-20 22:29:12] [1,10] RecvMsgClientLogOnResponse() : [U:1:112132131] 'OK'
+[2017-05-20 22:35:03] [3,10] ResetVoiceRecording() (was recording: 0) (last get voice time: 1495337703 seconds ago)
+[2017-05-20 22:35:03] [3,10] LogOff()
+[2017-05-20 22:35:03] [2,10] AsyncDisconnect()
+[2017-05-20 22:35:03] [2,10] Log session ended
+
+
+[2017-06-22 17:51:21] Log session started
+[2017-06-22 17:51:21] [0,0] SetSteamID( [U:1:0] )
+[2017-06-22 17:51:21] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2017-06-22 17:51:21] [0,0] SetSteamID( [U:1:112132131] )
+[2017-06-22 17:51:21] [0,0] SetSteamID( [U:1:112132131] )
+[2017-06-22 17:51:21] [1,2] Connect() starting connection (eNetQOSLevelHigh, 162.254.193.6:27020, UDP)
+[2017-06-22 17:51:22] [1,2] ConnectionCompleted() (162.254.193.7:27018, UDP)
+[2017-06-22 17:51:23] [1,2] RecvMsgClientLogOnResponse() : [U:1:112132131] 'OK'
+[2017-06-22 17:56:43] [3,2] ResetVoiceRecording() (was recording: 0) (last get voice time: 1498172203 seconds ago)
+[2017-06-22 17:56:43] [3,2] LogOff()
+[2017-06-22 17:56:43] [2,2] AsyncDisconnect()
+[2017-06-22 17:56:43] [2,2] Log session ended

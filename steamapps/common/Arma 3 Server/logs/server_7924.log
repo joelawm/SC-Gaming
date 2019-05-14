@@ -1,0 +1,33 @@
+﻿23:43:15 BattlEye Server: Initialized (v1.216)
+23:43:15 Host identity created.
+23:43:15 Game Port: 2302, Steam Query Port: 2303
+23:43:15 Mission Exile.Chernarus read from bank.
+23:43:15 Roles assigned.
+23:43:15 Reading mission ...
+23:43:28 Mission read.
+23:43:28 Aurora uses modified data file
+23:43:28 BattlEye Server: Player #0 Aurora (10.0.1.46:2304) connected
+23:43:28 Player Aurora connecting.
+23:43:28 Successfull attempt to execute serverCommand '#exec users' by server.
+23:43:28 Successfull attempt to execute serverCommand '#exec users' by server.
+23:43:28 Game started.
+23:43:29 BattlEye Server: Connected to BE Master
+23:43:30 BattlEye Server: Player #0 Aurora - GUID: 7621bfa5b2b21da80a898c49f77751e1
+23:43:30 Player Aurora connected (id=76561198072397859).
+23:43:30 BattlEye Server: Verified GUID (7621bfa5b2b21da80a898c49f77751e1) of player #0 Aurora
+23:43:34 grimm9 uses modified data file
+23:43:34 BattlEye Server: Player #1 grimm9 (73.9.27.100:2304) connected
+23:43:34 Player grimm9 connecting.
+23:43:36 A. Stec uses modified data file
+23:43:36 BattlEye Server: Player #2 A. Stec (69.246.219.197:2304) connected
+23:43:36 Player A. Stec connecting.
+23:43:36 BattlEye Server: Player #1 grimm9 - GUID: c1f2782516b769e5f712045ad7343672
+23:43:37 Player grimm9 connected (id=76561198039386396).
+23:43:37 BattlEye Server: Verified GUID (c1f2782516b769e5f712045ad7343672) of player #1 grimm9
+23:43:37 BattlEye Server: Player #2 A. Stec - GUID: 25f373fecd8cd466954da527c631a36c
+23:44:08 Player A. Stec connected (id=76561198100309836).
+23:44:08 BattlEye Server: Verified GUID (25f373fecd8cd466954da527c631a36c) of player #2 A. Stec
+ 0:26:45 Player A. Stec disconnected.
+ 0:26:45 BattlEye Server: Player #2 A. Stec disconnected
+ 1:38:45 Player Aurora disconnected.
+ 1:38:45 BattlEye Server: Player #0 Aurora disconnected

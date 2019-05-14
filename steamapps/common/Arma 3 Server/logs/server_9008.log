@@ -1,0 +1,39 @@
+﻿22:29:23 BattlEye Server: Initialized (v1.216)
+22:29:23 Host identity created.
+22:29:23 Game Port: 2302, Steam Query Port: 2303
+22:29:23 Mission Exile.Chernarus read from bank.
+22:29:24 Roles assigned.
+22:29:24 Reading mission ...
+22:29:36 Mission read.
+22:29:36 Successfull attempt to execute serverCommand '#exec users' by server.
+22:29:36 Successfull attempt to execute serverCommand '#exec users' by server.
+22:29:36 Game started.
+22:29:43 Aurora uses modified data file
+22:29:43 BattlEye Server: Player #0 Aurora (10.0.1.46:2304) connected
+22:29:43 Player Aurora connecting.
+22:29:43 BattlEye Server: Connected to BE Master
+22:29:44 BattlEye Server: Player #0 Aurora - GUID: 7621bfa5b2b21da80a898c49f77751e1
+22:29:45 Player Aurora connected (id=76561198072397859).
+22:29:45 BattlEye Server: Verified GUID (7621bfa5b2b21da80a898c49f77751e1) of player #0 Aurora
+22:34:20 grimm9 uses modified data file
+22:34:20 BattlEye Server: Player #1 grimm9 (73.9.27.100:2304) connected
+22:34:20 Player grimm9 connecting.
+22:34:22 BattlEye Server: Player #1 grimm9 - GUID: c1f2782516b769e5f712045ad7343672
+22:34:22 Player grimm9 connected (id=76561198039386396).
+22:34:22 BattlEye Server: Verified GUID (c1f2782516b769e5f712045ad7343672) of player #1 grimm9
+22:34:30 Player grimm9 disconnected.
+22:34:30 BattlEye Server: Player #1 grimm9 disconnected
+22:34:42 grimm9 uses modified data file
+22:34:42 BattlEye Server: Player #1 grimm9 (73.9.27.100:2304) connected
+22:34:42 Player grimm9 connecting.
+22:34:43 BattlEye Server: Player #1 grimm9 - GUID: c1f2782516b769e5f712045ad7343672
+22:34:44 Player grimm9 connected (id=76561198039386396).
+22:34:44 BattlEye Server: Verified GUID (c1f2782516b769e5f712045ad7343672) of player #1 grimm9
+22:34:44 Player grimm9 disconnected.
+22:34:44 BattlEye Server: Player #1 grimm9 disconnected
+22:40:18 A. Stec uses modified data file
+22:40:18 BattlEye Server: Player #1 A. Stec (69.246.219.197:2304) connected
+22:40:18 Player A. Stec connecting.
+22:40:19 BattlEye Server: Player #1 A. Stec - GUID: 25f373fecd8cd466954da527c631a36c
+22:40:22 Player A. Stec connected (id=76561198100309836).
+22:40:22 BattlEye Server: Verified GUID (25f373fecd8cd466954da527c631a36c) of player #1 A. Stec

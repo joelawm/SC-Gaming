@@ -1,0 +1,100 @@
+extDB2: Version: 70
+extDB2: https://github.com/Torndeco/extDB2
+extDB2: Windows Version
+Message: All development for extDB2 is done on a Linux Dedicated Server
+Message: If you would like to Donate to extDB2 Development
+Message: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2SUEFTGABTAM2
+Message: Also leave a message if there is any particular feature you would like to see added.
+Message: Thanks for all the people that have donated.
+Message: Torndeco: 20/02/15
+
+
+extDB2: Found extdb-conf.ini
+extDB2: Detected 2 Cores, Setting up 2 Worker Threads
+
+
+[00:51:49:241218 --5:00] [Thread 8900] extDB2: Database Type: MySQL
+[00:51:49:254797 --5:00] [Thread 8900] extDB2: Database Session Pool Started
+[00:51:49:257553 --5:00] [Thread 8900] extDB2: SQL_CUSTOM_V2: Loading Template Filename: C:\Users\xdelt\Desktop\Exile Server Chernarus\steamapps\common\Arma 3 Server\@ExileServer\extDB\sql_custom_v2\exile.ini
+[00:51:49:257742 --5:00] [Thread 8900] extDB2: SQL_CUSTOM_V2: Version 12 Detected, Latest Version 12 Available
+[00:51:49:433066 --5:00] [Thread 5552] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:SuperChil Dayz Exile |Humanity|Deploy Bike|:SERVER_INFO:[SERVER START] TIME  0 || EMAIL  joelawm@gmail.com || VERSION  07-Mar-2017 20-28-27 - v0073 || Local Server Time  [2017,5,25,0,51]
+[00:51:49:433106 --5:00] [Thread 5552] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[00:51:49:887746 --5:00] [Thread 5552] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:SuperChil Dayz Exile |Humanity|Deploy Bike|:CONNECTLOG:0 Connected  __SERVER__() Owner  2
+[00:51:49:887788 --5:00] [Thread 5552] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[00:52:16:254126 --5:00] [Thread 8900] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String getTotalConnections:76561198072397859
+[00:52:16:254196 --5:00] [Thread 8900] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname getTotalConnections
+[00:52:16:254506 --5:00] [Thread 6052] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:SuperChil Dayz Exile |Humanity|Deploy Bike|:CONNECTLOG:0 Connected  Aurora(76561198072397859) Owner  3, first connected   , last connected   , connections  0
+[00:52:16:254550 --5:00] [Thread 6052] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[00:52:16:258958 --5:00] [Thread 6052] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:SuperChil Dayz Exile |Humanity|Deploy Bike|:CONNECTLOG:TOKEN [s6m1berjojmmvow8k6] FOR Aurora(76561198072397859) OWNER  3, ID  2.00736e+009, JIP  true
+[00:52:16:258988 --5:00] [Thread 6052] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[00:52:18:258683 --5:00] [Thread 6052] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:SuperChil Dayz Exile |Humanity|Deploy Bike|:CONNECTLOG:1 Connected  Aurora(76561198072397859) Owner  3, SteamName  deltagi   [UpTime  0h 0min 11s - ServerFPS  46.1095]
+[00:52:18:258726 --5:00] [Thread 6052] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[00:52:21:327033 --5:00] [Thread 8900] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String getTotalConnections:76561198100309836
+[00:52:21:327100 --5:00] [Thread 8900] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname getTotalConnections
+[00:52:21:327421 --5:00] [Thread 6052] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:SuperChil Dayz Exile |Humanity|Deploy Bike|:CONNECTLOG:0 Connected  A. Stec(76561198100309836) Owner  4, first connected   , last connected   , connections  0
+[00:52:21:327462 --5:00] [Thread 6052] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[00:52:21:330573 --5:00] [Thread 6052] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:SuperChil Dayz Exile |Humanity|Deploy Bike|:CONNECTLOG:TOKEN [du8fxytdot3l5ml] FOR A. Stec(76561198100309836) OWNER  4, ID  1.36521e+009, JIP  true
+[00:52:21:330694 --5:00] [Thread 6052] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[00:52:23:576418 --5:00] [Thread 6052] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:SuperChil Dayz Exile |Humanity|Deploy Bike|:CONNECTLOG:1 Connected  A. Stec(76561198100309836) Owner  4, SteamName  AnthonyS117   [UpTime  0h 0min 16s - ServerFPS  46.1095]
+[00:52:23:576466 --5:00] [Thread 6052] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[00:52:43:258242 --5:00] [Thread 6052] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:SuperChil Dayz Exile |Humanity|Deploy Bike|:ADMINLOG:Aurora(76561198072397859) | UnlimAmmo - ON
+[00:52:43:258300 --5:00] [Thread 6052] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[00:52:47:883781 --5:00] [Thread 6052] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:SuperChil Dayz Exile |Humanity|Deploy Bike|:ADMINLOG:Aurora(76561198072397859) | Teleport to [4862.73,7384.23,0](GPS  048079)
+[00:52:47:883873 --5:00] [Thread 6052] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[00:52:52:134304 --5:00] [Thread 6052] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:SuperChil Dayz Exile |Humanity|Deploy Bike|:ADMINLOG:Aurora(76561198072397859) | Teleport to [3664.96,7427.67,0](GPS  036079)
+[00:52:52:134358 --5:00] [Thread 6052] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[00:52:56:571486 --5:00] [Thread 6052] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:SuperChil Dayz Exile |Humanity|Deploy Bike|:ADMINLOG:A. Stec(76561198100309836) | Teleport to [4989.36,7200.26,0](GPS  049081)
+[00:52:56:571525 --5:00] [Thread 6052] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[00:53:00:530168 --5:00] [Thread 6052] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:SuperChil Dayz Exile |Humanity|Deploy Bike|:ADMINLOG:Aurora(76561198072397859) | Loaded Loadout [Admin]
+[00:53:00:530222 --5:00] [Thread 6052] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[00:53:09:258070 --5:00] [Thread 6052] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:SuperChil Dayz Exile |Humanity|Deploy Bike|:netids:Aurora(76561198072397859) - R Pulkovo Bandits 1 (Aurora) REMOTE, Exile_Unit_Player - 2 544 - 3
+[00:53:09:258132 --5:00] [Thread 6052] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[00:53:09:279265 --5:00] [Thread 6052] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:SuperChil Dayz Exile |Humanity|Deploy Bike|:netids:A. Stec(76561198100309836) - R Alpha 1-2 1 (A. Stec) REMOTE, Exile_Unit_Player - 2 554 - 4
+[00:53:09:279320 --5:00] [Thread 6052] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[00:53:25:538019 --5:00] [Thread 6052] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:SuperChil Dayz Exile |Humanity|Deploy Bike|:ADMINLOG:A. Stec(76561198100309836) | Loaded Loadout [hero 2]
+[00:53:25:538075 --5:00] [Thread 6052] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[00:53:35:628761 --5:00] [Thread 6052] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:SuperChil Dayz Exile |Humanity|Deploy Bike|:ADMINLOG:Aurora(76561198072397859) | Teleport - Target To Me - A. Stec(76561198100309836)
+[00:53:35:628814 --5:00] [Thread 6052] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[00:53:35:632106 --5:00] [Thread 6052] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:SuperChil Dayz Exile |Humanity|Deploy Bike|:ADMINLOG:Aurora(76561198072397859) | Teleported A. Stec(76561198100309836) from [4979.88,7199.78,0.0015564](049081) to [3665.96,7427.69,0.348828](036079)  (1334m)
+[00:53:35:632195 --5:00] [Thread 6052] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[00:54:06:679366 --5:00] [Thread 6052] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:SuperChil Dayz Exile |Humanity|Deploy Bike|:ADMINLOG:Aurora(76561198072397859) | spawning HMMWV-MEV (B_mas_HMMWV_MEV) (NonPersistent)
+[00:54:06:679420 --5:00] [Thread 6052] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[00:54:22:977116 --5:00] [Thread 6052] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:SuperChil Dayz Exile |Humanity|Deploy Bike|:ADMINLOG:A. Stec(76561198100309836) | Spawning M4 VLTOR (arifle_mas_m4vlt) on A. Stec!
+[00:54:22:977171 --5:00] [Thread 6052] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[00:55:09:065459 --5:00] [Thread 6052] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:SuperChil Dayz Exile |Humanity|Deploy Bike|:ADMINLOG:A. Stec(76561198100309836) | Spawning GPS (ItemGPS) on A. Stec!
+[00:55:09:065529 --5:00] [Thread 6052] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[00:57:20:843375 --5:00] [Thread 5552] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:SuperChil Dayz Exile |Humanity|Deploy Bike|:ADMINLOG:A. Stec(76561198100309836) | Loaded Loadout [hero 2]
+[00:57:20:843452 --5:00] [Thread 5552] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[00:57:40:229846 --5:00] [Thread 5552] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:SuperChil Dayz Exile |Humanity|Deploy Bike|:netids:A. Stec(76561198100309836) - R Pulkovo Bandits 3 (A. Stec) REMOTE, Exile_Unit_Player - 2 820 - 4
+[00:57:40:229906 --5:00] [Thread 5552] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[00:58:03:322866 --5:00] [Thread 5552] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:SuperChil Dayz Exile |Humanity|Deploy Bike|:ADMINLOG:A. Stec(76561198100309836) | Spawning HK416 (arifle_mas_hk416) on A. Stec!
+[00:58:03:322938 --5:00] [Thread 5552] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[00:58:22:080195 --5:00] [Thread 5552] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:SuperChil Dayz Exile |Humanity|Deploy Bike|:ADMINLOG:A. Stec(76561198100309836) | Spawning HK416 (arifle_mas_hk416) on A. Stec!
+[00:58:22:080253 --5:00] [Thread 5552] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[00:58:57:741675 --5:00] [Thread 5552] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:SuperChil Dayz Exile |Humanity|Deploy Bike|:ADMINLOG:A. Stec(76561198100309836) | Teleport to [4972.97,7216.12,0](GPS  049081)
+[00:58:57:741737 --5:00] [Thread 5552] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[00:59:17:638532 --5:00] [Thread 5552] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:SuperChil Dayz Exile |Humanity|Deploy Bike|:ADMINLOG:A. Stec(76561198100309836) | Spawning HK416 CQB (arifle_mas_hk416c) on A. Stec!
+[00:59:17:638586 --5:00] [Thread 5552] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[00:59:34:494411 --5:00] [Thread 5552] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:SuperChil Dayz Exile |Humanity|Deploy Bike|:ADMINLOG:A. Stec(76561198100309836) | Spawning HK416 CQB SD (arifle_mas_hk416c_sd) on A. Stec!
+[00:59:34:494478 --5:00] [Thread 5552] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[00:59:51:725002 --5:00] [Thread 5552] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:SuperChil Dayz Exile |Humanity|Deploy Bike|:ADMINLOG:A. Stec(76561198100309836) | Spawning Sound Suppressor (5.56 mm) (muzzle_snds_M) on A. Stec!
+[00:59:51:725054 --5:00] [Thread 5552] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[00:59:56:390340 --5:00] [Thread 5552] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:SuperChil Dayz Exile |Humanity|Deploy Bike|:ADMINLOG:A. Stec(76561198100309836) | Spawning 30rnd 5.56mm STANAG (30Rnd_mas_556x45_Stanag) on A. Stec!
+[00:59:56:390388 --5:00] [Thread 5552] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[00:59:56:846550 --5:00] [Thread 5552] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:SuperChil Dayz Exile |Humanity|Deploy Bike|:ADMINLOG:A. Stec(76561198100309836) | Spawning 30rnd 5.56mm STANAG (30Rnd_mas_556x45_Stanag) on A. Stec!
+[00:59:56:846640 --5:00] [Thread 5552] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[00:59:57:151756 --5:00] [Thread 5552] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:SuperChil Dayz Exile |Humanity|Deploy Bike|:ADMINLOG:A. Stec(76561198100309836) | Spawning 30rnd 5.56mm STANAG (30Rnd_mas_556x45_Stanag) on A. Stec!
+[00:59:57:151810 --5:00] [Thread 5552] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[00:59:57:757580 --5:00] [Thread 5552] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:SuperChil Dayz Exile |Humanity|Deploy Bike|:ADMINLOG:A. Stec(76561198100309836) | Spawning 30rnd 5.56mm STANAG (30Rnd_mas_556x45_Stanag) on A. Stec!
+[00:59:57:757624 --5:00] [Thread 5552] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[00:59:58:340329 --5:00] [Thread 5552] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:SuperChil Dayz Exile |Humanity|Deploy Bike|:ADMINLOG:A. Stec(76561198100309836) | Spawning 30rnd 5.56mm STANAG (30Rnd_mas_556x45_Stanag) on A. Stec!
+[00:59:58:340373 --5:00] [Thread 5552] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[01:01:15:701436 --5:00] [Thread 5552] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:SuperChil Dayz Exile |Humanity|Deploy Bike|:ADMINLOG:A. Stec(76561198100309836) | Teleport to [5198.86,7630.27,0](GPS  051077)
+[01:01:15:701501 --5:00] [Thread 5552] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[01:02:11:418751 --5:00] [Thread 5552] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:SuperChil Dayz Exile |Humanity|Deploy Bike|:ADMINLOG:A. Stec(76561198100309836) | Teleport to [5177.62,7092.27,0](GPS  051082)
+[01:02:11:418815 --5:00] [Thread 5552] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[01:02:19:190596 --5:00] [Thread 6052] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:SuperChil Dayz Exile |Humanity|Deploy Bike|:ADMINLOG:A. Stec(76561198100309836) | Teleport to [4967.95,7208.75,0](GPS  049081)
+[01:02:19:190652 --5:00] [Thread 6052] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[01:02:26:466239 --5:00] [Thread 6052] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:SuperChil Dayz Exile |Humanity|Deploy Bike|:ADMINLOG:A. Stec(76561198100309836) | Loaded Loadout [hero 2]
+[01:02:26:466296 --5:00] [Thread 6052] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[01:02:39:886477 --5:00] [Thread 8900] extDB2: Stopping ...

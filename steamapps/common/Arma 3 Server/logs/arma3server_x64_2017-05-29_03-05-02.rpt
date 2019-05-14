@@ -1,0 +1,99 @@
+=====================================================================
+== C:\Users\xdelt\Desktop\Exile Server Chernarus\steamapps\common\Arma 3 Server\arma3server_x64.exe
+== "arma3server_x64.exe"  -port=2302 "-config=@ExileServer\Config.cfg" "-profiles=logs" "-cfg=@ExileServer\basic.cfg" -name=SC "-mod=@Exile;@CBA_A3;@CUP_Terrains_Core;@CUP_Terrains_Maps;@CUP_Units;@CUP_Vehicles;@CUP_Weapons;@TRYK;@NATO_Rus_Vehicles;@NATO_Rus_Weapons;@Extended_Items;@Ryanzombies;@Extended_Base;@RDSCiv;" "-serverMod=@ExileServer;" -world=empty -nosplash -noSound -noPause -enableHT -malloc=system -autoinit
+
+Original output filename: Arma3Retail_Server_x64
+Exe timestamp: 2017/05/16 12:06:05
+Current time:  2017/05/29 03:05:02
+
+Type: Public
+Build: Stable
+Version: 1.70.141764
+
+Allocator: Windows
+PhysMem: 8.0 GiB, VirtMem : 131072 GiB, AvailPhys : 4.1 GiB, AvailVirt : 131072 GiB, AvailPage : 6.3 GiB
+=====================================================================
+
+ 3:05:02 SteamAPI initialization failed. Steam features won't be accessible!
+ 3:05:03 Cannot register unknown string STR_VIV_GETIN
+ 3:05:03 Cannot register unknown string STR_VIV_DROP
+ 3:05:03 Cannot register unknown string STR_VIV_UNLOAD
+ 3:05:03 Source set
+ 3:05:03 Initializing stats manager.
+ 3:05:03 Stats config disabled.
+ 3:05:03 sessionID: e39103a9803ae6da49012dcc614466d3a54b2f2e
+ 3:05:35 Unsupported language English in stringtable
+ 3:05:35 Item str_dn_dshkm listed twice
+ 3:05:35 Item str_lib_dshkm listed twice
+ 3:05:35 Item str_dn_kord listed twice
+ 3:05:35 Item str_dn_kord_low listed twice
+ 3:05:35 Item str_lib_kord listed twice
+ 3:05:35 Item str_dn_ags30 listed twice
+ 3:05:35 Item str_lib_ags30 listed twice
+ 3:05:35 Item str_mn_at13 listed twice
+ 3:05:35 Item str_dn_at13 listed twice
+ 3:05:35 Item str_dn_at13launchersingle listed twice
+ 3:05:35 Item str_lib_at13 listed twice
+ 3:05:35 Item str_dn_spg9 listed twice
+ 3:05:35 Item str_lib_spg9 listed twice
+ 3:05:35 Item str_mn_og9 listed twice
+ 3:05:35 Item str_mn_pg9 listed twice
+ 3:05:35 Item str_mn_igla listed twice
+ 3:05:35 Item str_mn_9k32 listed twice
+ 3:05:35 Item str_dn_igla_twice listed twice
+ 3:05:35 Item str_dn_igla_aa_pod_east listed twice
+ 3:05:35 Item str_dn_2b14 listed twice
+ 3:05:35 Item str_lib_2b14 listed twice
+ 3:05:35 Item str_dn_d30 listed twice
+ 3:05:35 Item str_lib_d30 listed twice
+ 3:05:35 Item str_dn_m2_mg listed twice
+ 3:05:35 Item str_dn_m2hd_minitripod listed twice
+ 3:05:35 Item str_lib_m2_mg listed twice
+ 3:05:35 Item str_dn_m119 listed twice
+ 3:05:35 Item str_lib_m119 listed twice
+ 3:05:35 Item str_dn_m252 listed twice
+ 3:05:35 Item str_lib_m252 listed twice
+ 3:05:35 Item str_dn_tow_tripod listed twice
+ 3:05:35 Item str_dn_tow listed twice
+ 3:05:35 Item str_dn_mk19_tripod listed twice
+ 3:05:35 Unsupported language English in stringtable
+ 3:05:35 Item STR_CUP_dss_Soviet_Era_Tanker_Helmet listed twice
+ 3:05:35 Item str_dn_2b14 listed twice
+ 3:05:35 Item str_mn_pg9 listed twice
+ 3:05:35 Item str_mn_og9 listed twice
+ 3:05:35 Item str_mn_igla listed twice
+ 3:05:35 Item str_dn_ags30 listed twice
+ 3:05:35 Item str_mn_at13 listed twice
+ 3:05:35 Item str_mn_9k32 listed twice
+ 3:05:35 Item str_dn_at13 listed twice
+ 3:05:35 Item str_dn_at13launchersingle listed twice
+ 3:05:35 Item STR_DN_D30 listed twice
+ 3:05:35 Item str_dn_dshkm listed twice
+ 3:05:35 Item str_lib_m2_mg listed twice
+ 3:05:35 Item str_lib_m119 listed twice
+ 3:05:35 Item str_lib_kord listed twice
+ 3:05:35 Item str_lib_dshkm listed twice
+ 3:05:35 Item STR_LIB_D30 listed twice
+ 3:05:35 Item str_lib_ags30 listed twice
+ 3:05:35 Item str_dn_igla_aa_pod_east listed twice
+ 3:05:35 Item str_dn_igla_twice listed twice
+ 3:05:35 Item str_dn_kord listed twice
+ 3:05:35 Item str_dn_kord_low listed twice
+ 3:05:35 Item str_dn_m119 listed twice
+ 3:05:35 Item str_dn_tow_tripod listed twice
+ 3:05:35 Item str_dn_tow listed twice
+ 3:05:35 Item str_dn_spg9 listed twice
+ 3:05:35 Item str_dn_m252 listed twice
+ 3:05:35 Item str_dn_m2hd_minitripod listed twice
+ 3:05:35 Item str_dn_m2_mg listed twice
+ 3:05:35 Item str_dn_mk19_tripod listed twice
+ 3:05:35 Item str_lib_2b14 listed twice
+ 3:05:35 Item str_lib_at13 listed twice
+ 3:05:35 Item str_lib_m252 listed twice
+ 3:05:35 Item str_lib_spg9 listed twice
+ 3:05:35 Unsupported language English in stringtable
+ 3:05:36 Unsupported language English in stringtable
+ 3:05:36 Unsupported language English in stringtable
+ 3:05:36 Unsupported language English in stringtable
+ 3:05:36 Unsupported language English in stringtable
+ 3:05:36 Conflicting addon TRYK_Uniform in 'zara\', previous definition in 'tryk_unit\'

@@ -1,0 +1,37 @@
+"AppState"
+{
+	"appid"		"233780"
+	"Universe"		"1"
+	"name"		"Arma 3 Server"
+	"StateFlags"		"4"
+	"installdir"		"Arma 3 Server"
+	"LastUpdated"		"1498172203"
+	"UpdateResult"		"0"
+	"SizeOnDisk"		"5232859916"
+	"buildid"		"1905514"
+	"LastOwner"		"76561198072397859"
+	"BytesToDownload"		"1228970880"
+	"BytesDownloaded"		"1228970880"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"UserConfig"
+	{
+		"betakey"		"1"
+	}
+	"InstalledDepots"
+	{
+		"233781"
+		{
+			"manifest"		"1001287827387615335"
+		}
+		"233782"
+		{
+			"manifest"		"2835629802243001062"
+		}
+	}
+	"MountedDepots"
+	{
+		"233781"		"1001287827387615335"
+		"233782"		"2835629802243001062"
+	}
+}

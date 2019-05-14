@@ -1,0 +1,19 @@
+﻿21:37:22 BattlEye Server: Initialized (v1.216)
+21:37:22 Host identity created.
+21:37:23 Game Port: 2302, Steam Query Port: 2303
+21:37:23 Mission Exile.Chernarus read from bank.
+21:37:23 Roles assigned.
+21:37:23 Reading mission ...
+21:37:36 Mission read.
+21:37:37 Aurora uses modified data file
+21:37:37 BattlEye Server: Player #0 Aurora (10.0.1.46:2304) connected
+21:37:37 Player Aurora connecting.
+21:37:37 Successfull attempt to execute serverCommand '#exec users' by server.
+21:37:37 Successfull attempt to execute serverCommand '#exec users' by server.
+21:37:37 Game started.
+21:37:38 BattlEye Server: Connected to BE Master
+21:37:38 BattlEye Server: Player #0 Aurora - GUID: 7621bfa5b2b21da80a898c49f77751e1
+21:37:38 Player Aurora connected (id=76561198072397859).
+21:37:38 BattlEye Server: Verified GUID (7621bfa5b2b21da80a898c49f77751e1) of player #0 Aurora
+21:40:06 Player Aurora disconnected.
+21:40:06 BattlEye Server: Player #0 Aurora disconnected

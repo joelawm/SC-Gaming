@@ -1,0 +1,43 @@
+﻿20:34:04 BattlEye Server: Initialized (v1.217)
+20:34:04 Host identity created.
+20:34:05 Game Port: 2302, Steam Query Port: 2303
+20:34:05 Mission Exile.Chernarus read from bank.
+20:34:05 Roles assigned.
+20:34:05 Reading mission ...
+20:34:14 Mission read.
+20:34:14 Successfull attempt to execute serverCommand '#exec users' by server.
+20:34:14 Successfull attempt to execute serverCommand '#exec users' by server.
+20:34:14 Game started.
+20:34:19 Aurora uses modified data file
+20:34:19 BattlEye Server: Player #0 Aurora (10.0.1.58:2304) connected
+20:34:19 Player Aurora connecting.
+20:34:20 BattlEye Server: Connected to BE Master
+20:34:21 BattlEye Server: Player #0 Aurora - GUID: 7621bfa5b2b21da80a898c49f77751e1
+20:34:22 Player Aurora connected (id=76561198072397859).
+20:34:22 BattlEye Server: Verified GUID (7621bfa5b2b21da80a898c49f77751e1) of player #0 Aurora
+20:34:43 Player Aurora disconnected.
+20:34:43 BattlEye Server: Player #0 Aurora disconnected
+20:38:21 Aurora uses modified data file
+20:38:22 BattlEye Server: Player #0 Aurora (10.0.1.58:2304) connected
+20:38:22 Player Aurora connecting.
+20:38:23 BattlEye Server: Player #0 Aurora - GUID: 7621bfa5b2b21da80a898c49f77751e1
+20:38:24 Player Aurora connected (id=76561198072397859).
+20:38:24 BattlEye Server: Verified GUID (7621bfa5b2b21da80a898c49f77751e1) of player #0 Aurora
+20:38:36 Player Aurora disconnected.
+20:38:36 BattlEye Server: Player #0 Aurora disconnected
+20:49:41 Aurora uses modified data file
+20:49:41 BattlEye Server: Player #0 Aurora (10.0.1.58:2304) connected
+20:49:41 Player Aurora connecting.
+20:49:43 BattlEye Server: Player #0 Aurora - GUID: 7621bfa5b2b21da80a898c49f77751e1
+20:49:43 Player Aurora connected (id=76561198072397859).
+20:49:43 BattlEye Server: Verified GUID (7621bfa5b2b21da80a898c49f77751e1) of player #0 Aurora
+20:49:47 Player Aurora disconnected.
+20:49:47 BattlEye Server: Player #0 Aurora disconnected
+21:41:27 Aurora uses modified data file
+21:41:27 BattlEye Server: Player #0 Aurora (10.0.1.58:2304) connected
+21:41:28 Player Aurora connecting.
+21:41:29 BattlEye Server: Player #0 Aurora - GUID: 7621bfa5b2b21da80a898c49f77751e1
+21:41:30 Player Aurora connected (id=76561198072397859).
+21:41:30 BattlEye Server: Verified GUID (7621bfa5b2b21da80a898c49f77751e1) of player #0 Aurora
+23:12:23 Player Aurora disconnected.
+23:12:23 BattlEye Server: Player #0 Aurora disconnected

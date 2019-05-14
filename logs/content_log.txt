@@ -1,0 +1,136 @@
+
+
+[2017-05-20 22:28:11] Loaded 0 apps from install folder "C:\Users\xdelt\Desktop\Exile Server Chernarus\steamapps\appmanifest_*.acf".
+[2017-05-20 22:29:17] AppID 233780 state changed : Update Required,
+[2017-05-20 22:29:17] Invalid manifest for depotID 233784, branch "1", skipping depot
+[2017-05-20 22:29:17] Scheduler update appID 233780: Priority First, legacy=no, restore="", timeSinceLastPlayed=3, appDisableSecondsRemaining=0
+[2017-05-20 22:29:17] Scheduler update appID 233780: Priority First, legacy=no, restore="", timeSinceLastPlayed=3, appDisableSecondsRemaining=0
+[2017-05-20 22:29:17] AppID 233780 state changed : Update Required,Update Running,
+[2017-05-20 22:29:17] AppID 233780 update changed : Running,
+[2017-05-20 22:29:17] AppID 233780 update changed : Running,Reconfiguring,
+[2017-05-20 22:29:17] Download system icon for AppID 233780 to C:\Users\xdelt\Desktop\Exile Server Chernarus\steam\games\65008c45141949621c1485a4099596ee6297476f.ico
+[2017-05-20 22:29:17] Invalid manifest for depotID 233784, branch "1", skipping depot
+[2017-05-20 22:29:18] Got 20 download sources via "/serverlist/1/20/" from 162.254.192.12:80
+[2017-05-20 22:29:18] Created download interface of type 'CDN' (2) to host cdn.comcast.cs.steampowered.com (cdn.comcast.cs.steampowered.com)
+[2017-05-20 22:29:18] Created download interface of type 'CDN' (2) to host cdn.comcast.cs.steampowered.com (cdn.comcast.cs.steampowered.com)
+[2017-05-20 22:29:18] Created download interface of type 'CS' (1) to host valve302.steampipe.steamcontent.com (valve302.steamcontent.com)
+[2017-05-20 22:29:18] HTTP (CDN,64) - cdn.comcast.cs.steampowered.com (cdn.comcast.cs.steampowered.com): AuthenticateDepotID (233781) - Success!
+[2017-05-20 22:29:18] HTTP (CDN,64) - cdn.comcast.cs.steampowered.com (cdn.comcast.cs.steampowered.com): AuthenticateDepotID (233782) - Success!
+[2017-05-20 22:29:19] HTTP (CDN,64) - cdn.comcast.cs.steampowered.com (cdn.comcast.cs.steampowered.com): cdn.comcast.cs.steampowered.com/depot/233782/manifest/2323778394531014089/5?E=1495942156&A=1&K=0&P=0110&S=6e126d4e1a3bcd647fde4a6d9b8f78d415ad7ea6 - received 200 (OK) HTTP response
+[2017-05-20 22:29:19] HTTP (CDN,64) - cdn.comcast.cs.steampowered.com (cdn.comcast.cs.steampowered.com): cdn.comcast.cs.steampowered.com/depot/233781/manifest/4912149358295077745/5?E=1495942156&A=1&K=0&P=0110&S=e239f3d976bee2db89f8f10db53cf2deec0e0512 - received 200 (OK) HTTP response
+[2017-05-20 22:29:19] AppID 233780 update changed : Running,
+[2017-05-20 22:29:19] AppID 233780 update changed : Running,Validating,
+[2017-05-20 22:29:19] Validating files (new target,full) ...
+[2017-05-20 22:29:19] File validation finished: 652 files (4672086656 bytes) total, 652 files (4672086656 bytes) mismatched (86 msec).
+[2017-05-20 22:29:19] AppID 233780 update changed : Running,
+[2017-05-20 22:29:19] AppID 233780 update changed : Running,Preallocating,
+[2017-05-20 22:29:19] AppID 233780 update changed : Running,
+[2017-05-20 22:29:19] AppID 233780 update started : download 0/2175531360, store 0/0, reuse 0/0, stage 0/4672086656
+[2017-05-20 22:29:19] AppID 233780 state changed : Update Required,Update Running,Update Started,
+[2017-05-20 22:29:19] AppID 233780 update changed : Running,Downloading,
+[2017-05-20 22:29:19] AppID 233780 update changed : Running,Downloading,Staging,
+[2017-05-20 22:29:19] Downloading 5024 chunks from depot 233781
+[2017-05-20 22:29:19] HTTP (CDN,64) - cdn.comcast.cs.steampowered.com (cdn.comcast.cs.steampowered.com): AuthenticateDepotID (233781) - Success!
+[2017-05-20 22:29:19] HTTP (CS,302) - valve302.steampipe.steamcontent.com (valve302.steamcontent.com): AuthenticateDepotID (233781) - Success!
+[2017-05-20 22:29:31] Increasing target number of download connections to 4 (rate was 0.000, now 58.041)
+[2017-05-20 22:29:31] Created download interface of type 'CS' (1) to host valve617.steampipe.steamcontent.com (valve617.steamcontent.com)
+[2017-05-20 22:29:31] HTTP (CS,617) - valve617.steampipe.steamcontent.com (valve617.steamcontent.com): AuthenticateDepotID (233781) - Success!
+[2017-05-20 22:29:43] Increasing target number of download connections to 5 (rate was 58.041, now 75.902)
+[2017-05-20 22:29:43] Created download interface of type 'CS' (1) to host valve606.steampipe.steamcontent.com (valve606.steamcontent.com)
+[2017-05-20 22:29:43] HTTP (CS,606) - valve606.steampipe.steamcontent.com (valve606.steamcontent.com): AuthenticateDepotID (233781) - Success!
+[2017-05-20 22:30:32] Current download rate: 60.865 Mbps
+[2017-05-20 22:31:32] Current download rate: 41.929 Mbps
+[2017-05-20 22:32:33] Current download rate: 58.657 Mbps
+[2017-05-20 22:33:34] Current download rate: 42.755 Mbps
+[2017-05-20 22:34:35] Current download rate: 48.317 Mbps
+[2017-05-20 22:34:52] Downloading 157 chunks from depot 233782
+[2017-05-20 22:34:52] HTTP (CDN,64) - cdn.comcast.cs.steampowered.com (cdn.comcast.cs.steampowered.com): AuthenticateDepotID (233782) - Success!
+[2017-05-20 22:34:52] HTTP (CS,617) - valve617.steampipe.steamcontent.com (valve617.steamcontent.com): AuthenticateDepotID (233782) - Success!
+[2017-05-20 22:34:53] HTTP (CS,606) - valve606.steampipe.steamcontent.com (valve606.steamcontent.com): AuthenticateDepotID (233782) - Success!
+[2017-05-20 22:34:53] HTTP (CS,302) - valve302.steampipe.steamcontent.com (valve302.steamcontent.com): AuthenticateDepotID (233782) - Success!
+[2017-05-20 22:35:02] AppID 233780 update changed : Running,
+[2017-05-20 22:35:02] AppID 233780 update changed : Running,Committing,
+[2017-05-20 22:35:02] AppID 233780 file commit : 672 updated, 0 moved, 0 deleted
+[2017-05-20 22:35:03] AppID 233780 state changed : Fully Installed,Update Running,
+[2017-05-20 22:35:03] Finished update AppID 233780, mounted depots (BuildID 1824921): 233781 (4912149358295077745),233782 (2323778394531014089),
+[2017-05-20 22:35:03] AppID 233780 update changed : Running,
+[2017-05-20 22:35:03] AppID 233780 update changed : None
+[2017-05-20 22:35:03] AppID 233780 state changed : Fully Installed,
+[2017-05-20 22:35:03] Invalid manifest for depotID 233784, branch "1", skipping depot
+[2017-05-20 22:35:03] AppID 233780 scheduler finished : removed from schedule
+[2017-05-20 22:35:03] HTTP (CS,606) - valve606.steampipe.steamcontent.com (valve606.steamcontent.com): Closing connection
+[2017-05-20 22:35:03] HTTP (CS,617) - valve617.steampipe.steamcontent.com (valve617.steamcontent.com): Closing connection
+[2017-05-20 22:35:03] HTTP (CS,302) - valve302.steampipe.steamcontent.com (valve302.steamcontent.com): Closing connection
+[2017-05-20 22:35:03] HTTP (CDN,64) - cdn.comcast.cs.steampowered.com (cdn.comcast.cs.steampowered.com): Closing connection
+[2017-05-20 22:35:03] HTTP (CDN,64) - cdn.comcast.cs.steampowered.com (cdn.comcast.cs.steampowered.com): Closing connection
+
+
+[2017-06-22 17:51:21] Loaded 1 apps from install folder "C:\Users\xdelt\Desktop\Exile Server Chernarus\steamapps\appmanifest_*.acf".
+[2017-06-22 17:51:23] Invalid manifest for depotID 233784, branch "1", skipping depot
+[2017-06-22 17:51:26] Invalid manifest for depotID 233784, branch "1", skipping depot
+[2017-06-22 17:51:26] AppID 233780 state changed : Update Required,Fully Installed,
+[2017-06-22 17:51:26] Invalid manifest for depotID 233784, branch "1", skipping depot
+[2017-06-22 17:51:26] Scheduler update appID 233780: Priority First, legacy=no, restore="", timeSinceLastPlayed=2834532, appDisableSecondsRemaining=0
+[2017-06-22 17:51:26] AppID 233780 state changed : Update Required,Fully Installed,Update Running,
+[2017-06-22 17:51:26] AppID 233780 update changed : Running,
+[2017-06-22 17:51:26] AppID 233780 update changed : Running,Reconfiguring,
+[2017-06-22 17:51:26] Invalid manifest for depotID 233784, branch "1", skipping depot
+[2017-06-22 17:51:27] Got 11 download sources via "/serverlist/1/20/" from 162.254.193.40:80
+[2017-06-22 17:51:27] Created download interface of type 'CDN' (2) to host cdn.comcast.cs.steampowered.com (cdn.comcast.cs.steampowered.com)
+[2017-06-22 17:51:27] Created download interface of type 'CDN' (2) to host cdn.comcast.cs.steampowered.com (cdn.comcast.cs.steampowered.com)
+[2017-06-22 17:51:27] Created download interface of type 'CS' (1) to host valve604.steampipe.steamcontent.com (valve604.steamcontent.com)
+[2017-06-22 17:51:27] HTTP (CDN,64) - cdn.comcast.cs.steampowered.com (cdn.comcast.cs.steampowered.com): AuthenticateDepotID (233782) - Success!
+[2017-06-22 17:51:27] HTTP (CDN,64) - cdn.comcast.cs.steampowered.com (cdn.comcast.cs.steampowered.com): cdn.comcast.cs.steampowered.com/depot/233782/manifest/2835629802243001062/5?E=1498776690&A=1&K=0&P=0110&S=626abcf78521a38818cc52656fb3635138f045ea - received 200 (OK) HTTP response
+[2017-06-22 17:51:27] Invalid manifest for depotID 233784, branch "1", skipping depot
+[2017-06-22 17:51:27] HTTP (CDN,64) - cdn.comcast.cs.steampowered.com (cdn.comcast.cs.steampowered.com): cdn.comcast.cs.steampowered.com/depot/233781/manifest/1001287827387615335/5?E=1498776690&A=1&K=0&P=0110&S=09b4f424ddcdb821f7e64e24626325c236afa94c - received 200 (OK) HTTP response
+[2017-06-22 17:51:27] AppID 233780 update changed : Running,
+[2017-06-22 17:51:27] AppID 233780 update changed : Running,Validating,
+[2017-06-22 17:51:27] Validating files (new target,full) ...
+[2017-06-22 17:51:27] File validation finished: 44 files (230361337 bytes) total, 44 files (230361337 bytes) mismatched (63 msec).
+[2017-06-22 17:51:27] AppID 233780 update changed : Running,
+[2017-06-22 17:51:27] AppID 233780 update changed : Running,Preallocating,
+[2017-06-22 17:51:28] AppID 233780 update changed : Running,
+[2017-06-22 17:51:28] AppID 233780 update started : download 0/1228970880, store 0/0, reuse 0/2716628831, stage 0/5147663198
+[2017-06-22 17:51:28] AppID 233780 state changed : Update Required,Fully Installed,Update Running,Update Started,
+[2017-06-22 17:51:28] AppID 233780 update changed : Running,Downloading,
+[2017-06-22 17:51:28] AppID 233780 update changed : Running,Downloading,Staging,
+[2017-06-22 17:51:28] Downloading 2817 chunks from depot 233781
+[2017-06-22 17:51:28] HTTP (CDN,64) - cdn.comcast.cs.steampowered.com (cdn.comcast.cs.steampowered.com): AuthenticateDepotID (233781) - Success!
+[2017-06-22 17:51:28] HTTP (CS,604) - valve604.steampipe.steamcontent.com (valve604.steamcontent.com): AuthenticateDepotID (233781) - Success!
+[2017-06-22 17:51:39] Increasing target number of download connections to 4 (rate was 0.000, now 41.210)
+[2017-06-22 17:51:39] Created download interface of type 'CS' (1) to host valve616.steampipe.steamcontent.com (valve616.steamcontent.com)
+[2017-06-22 17:51:40] HTTP (CS,616) - valve616.steampipe.steamcontent.com (valve616.steamcontent.com): AuthenticateDepotID (233781) - Success!
+[2017-06-22 17:51:51] Increasing target number of download connections to 5 (rate was 41.210, now 81.866)
+[2017-06-22 17:51:51] Created download interface of type 'CS' (1) to host valve319.steampipe.steamcontent.com (valve319.steamcontent.com)
+[2017-06-22 17:52:40] Current download rate: 0.000 Mbps
+[2017-06-22 17:53:41] Current download rate: 71.208 Mbps
+[2017-06-22 17:54:25] HTTP (CS,319) - valve319.steampipe.steamcontent.com (valve319.steamcontent.com): Received 503 (Service Unavailable) HTTP response for depot 233781
+[2017-06-22 17:54:25] Created download interface of type 'CS' (1) to host valve2307.steampipe.steamcontent.com (valve2307.steamcontent.com)
+[2017-06-22 17:54:25] HTTP (CS,319) - valve319.steampipe.steamcontent.com (valve319.steamcontent.com): Closing connection
+[2017-06-22 17:54:26] HTTP (CS,2307) - valve2307.steampipe.steamcontent.com (valve2307.steamcontent.com): AuthenticateDepotID (233781) - Success!
+[2017-06-22 17:54:42] Current download rate: 0.000 Mbps
+[2017-06-22 17:55:32] HTTP (CS,2307) - valve2307.steampipe.steamcontent.com (valve2307.steamcontent.com): Closing connection
+[2017-06-22 17:55:32] HTTP (CS,604) - valve604.steampipe.steamcontent.com (valve604.steamcontent.com): Closing connection
+[2017-06-22 17:55:33] HTTP (CS,616) - valve616.steampipe.steamcontent.com (valve616.steamcontent.com): Closing connection
+[2017-06-22 17:55:34] HTTP (CDN,64) - cdn.comcast.cs.steampowered.com (cdn.comcast.cs.steampowered.com): Closing connection
+[2017-06-22 17:55:34] HTTP (CDN,64) - cdn.comcast.cs.steampowered.com (cdn.comcast.cs.steampowered.com): Closing connection
+[2017-06-22 17:56:34] Created download interface of type 'CDN' (2) to host cdn.comcast.cs.steampowered.com (cdn.comcast.cs.steampowered.com)
+[2017-06-22 17:56:34] Created download interface of type 'CDN' (2) to host cdn.comcast.cs.steampowered.com (cdn.comcast.cs.steampowered.com)
+[2017-06-22 17:56:34] Created download interface of type 'CS' (1) to host valve604.steampipe.steamcontent.com (valve604.steamcontent.com)
+[2017-06-22 17:56:34] Downloading 63 chunks from depot 233782
+[2017-06-22 17:56:34] HTTP (CDN,64) - cdn.comcast.cs.steampowered.com (cdn.comcast.cs.steampowered.com): AuthenticateDepotID (233782) - Success!
+[2017-06-22 17:56:34] HTTP (CDN,64) - cdn.comcast.cs.steampowered.com (cdn.comcast.cs.steampowered.com): AuthenticateDepotID (233782) - Success!
+[2017-06-22 17:56:34] HTTP (CS,604) - valve604.steampipe.steamcontent.com (valve604.steamcontent.com): AuthenticateDepotID (233782) - Success!
+[2017-06-22 17:56:40] AppID 233780 update changed : Running,
+[2017-06-22 17:56:40] AppID 233780 update changed : Running,Committing,
+[2017-06-22 17:56:40] AppID 233780 file commit : 668 updated, 0 moved, 0 deleted
+[2017-06-22 17:56:43] AppID 233780 state changed : Fully Installed,Update Running,
+[2017-06-22 17:56:43] Finished update AppID 233780, mounted depots (BuildID 1905514): 233781 (1001287827387615335),233782 (2835629802243001062),
+[2017-06-22 17:56:43] AppID 233780 update changed : Running,
+[2017-06-22 17:56:43] AppID 233780 update changed : None
+[2017-06-22 17:56:43] AppID 233780 state changed : Fully Installed,
+[2017-06-22 17:56:43] Invalid manifest for depotID 233784, branch "1", skipping depot
+[2017-06-22 17:56:43] AppID 233780 scheduler finished : removed from schedule
+[2017-06-22 17:56:43] HTTP (CS,604) - valve604.steampipe.steamcontent.com (valve604.steamcontent.com): Closing connection
+[2017-06-22 17:56:43] HTTP (CDN,64) - cdn.comcast.cs.steampowered.com (cdn.comcast.cs.steampowered.com): Closing connection
+[2017-06-22 17:56:43] HTTP (CDN,64) - cdn.comcast.cs.steampowered.com (cdn.comcast.cs.steampowered.com): Closing connection

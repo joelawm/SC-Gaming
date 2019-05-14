@@ -1,0 +1,1729 @@
+
+
+[2017-05-20 22:49:51] Log session started
+[2017-05-20 22:49:51] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-20 22:49:51] CCMInterface::YieldingConnect -- no CMs cached locally, calling ISteamDirectory/GetCMList web api. . .
+[2017-05-20 22:49:53] CCMInterface::YieldingConnect -- got 100 CMs from ISteamDirectory/GetCMList.
+[2017-05-20 22:49:53] [1,4] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27020, UDP)
+[2017-05-20 22:49:54] [1,4] ConnectionCompleted() (208.64.201.169:27020, UDP)
+[2017-05-20 22:49:54] [1,4] RecvMsgClientLogOnResponse() : [A:1:404675588:8575] 'OK'
+[2017-05-21 13:33:32] [3,4] LogOff()
+[2017-05-21 13:33:32] [2,4] AsyncDisconnect()
+[2017-05-21 13:33:32] [2,4] Log session ended
+
+
+[2017-05-24 16:57:36] Log session started
+[2017-05-24 16:57:36] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-24 16:57:36] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.7:27017, UDP)
+[2017-05-24 16:57:37] [1,2] ConnectionCompleted() (162.254.193.6:27019, UDP)
+[2017-05-24 16:57:37] [1,2] RecvMsgClientLogOnResponse() : [A:1:3891140608:8590] 'OK'
+[2017-05-24 16:57:46] [3,2] LogOff()
+[2017-05-24 16:57:46] [2,2] AsyncDisconnect()
+[2017-05-24 16:57:46] [2,2] Log session ended
+
+
+[2017-05-24 17:00:54] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2017-05-24 17:00:54] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-24 17:00:55] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27019, UDP)
+[2017-05-24 17:00:55] [1,2] ConnectionCompleted() (162.254.193.6:27017, UDP)
+[2017-05-24 17:00:55] [1,2] RecvMsgClientLogOnResponse() : [A:1:392368128:8591] 'OK'
+
+
+[2017-05-24 17:02:23] Log session started
+[2017-05-24 17:02:23] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-24 17:02:23] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.6:27019, UDP)
+[2017-05-24 17:02:24] [1,2] ConnectionCompleted() (162.254.193.7:27017, UDP)
+[2017-05-24 17:02:24] [1,2] RecvMsgClientLogOnResponse() : [A:1:393669638:8591] 'OK'
+
+
+[2017-05-24 17:07:53] Log session started
+[2017-05-24 17:07:53] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-24 17:07:53] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27017, UDP)
+[2017-05-24 17:07:54] [1,2] ConnectionCompleted() (162.254.193.7:27021, UDP)
+[2017-05-24 17:07:54] [1,2] RecvMsgClientLogOnResponse() : [A:1:464645128:8591] 'OK'
+[2017-05-24 17:20:23] [3,2] LogOff()
+[2017-05-24 17:20:23] [2,2] AsyncDisconnect()
+[2017-05-24 17:20:23] [2,2] Log session ended
+
+
+[2017-05-24 17:28:38] Log session started
+[2017-05-24 17:28:38] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-24 17:28:38] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.6:27019, UDP)
+[2017-05-24 17:28:39] [1,2] ConnectionCompleted() (162.254.193.47:27021, UDP)
+[2017-05-24 17:28:39] [1,2] RecvMsgClientLogOnResponse() : [A:1:679791618:8591] 'OK'
+[2017-05-24 17:29:56] [3,2] LogOff()
+[2017-05-24 17:29:56] [2,2] AsyncDisconnect()
+[2017-05-24 17:29:56] [2,2] Log session ended
+
+
+[2017-05-24 17:49:30] Log session started
+[2017-05-24 17:49:30] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-24 17:49:31] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.47:27018, UDP)
+[2017-05-24 17:49:31] [1,2] ConnectionCompleted() (208.64.201.169:27018, UDP)
+[2017-05-24 17:49:32] [1,2] RecvMsgClientLogOnResponse() : [A:1:1457285128:8591] 'OK'
+[2017-05-24 17:59:00] [3,2] LogOff()
+[2017-05-24 17:59:00] [2,2] AsyncDisconnect()
+[2017-05-24 17:59:00] [2,2] Log session ended
+
+
+[2017-05-24 18:09:04] Log session started
+[2017-05-24 18:09:04] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-24 18:09:04] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.47:27019, UDP)
+[2017-05-24 18:09:05] [1,2] ConnectionCompleted() (162.254.193.6:27017, UDP)
+[2017-05-24 18:09:05] [1,2] RecvMsgClientLogOnResponse() : [A:1:1598658568:8591] 'OK'
+[2017-05-24 18:11:41] [3,2] LogOff()
+[2017-05-24 18:11:41] [2,2] AsyncDisconnect()
+[2017-05-24 18:11:41] [2,2] Log session ended
+
+
+[2017-05-24 18:24:21] Log session started
+[2017-05-24 18:24:21] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-24 18:24:21] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.47:27017, UDP)
+[2017-05-24 18:24:22] [1,2] ConnectionCompleted() (162.254.193.47:27019, UDP)
+[2017-05-24 18:24:22] [1,2] RecvMsgClientLogOnResponse() : [A:1:1782907908:8591] 'OK'
+[2017-05-24 18:37:02] [3,2] LogOff()
+[2017-05-24 18:37:02] [2,2] AsyncDisconnect()
+[2017-05-24 18:37:02] [2,2] Log session ended
+
+
+[2017-05-24 22:45:28] Log session started
+[2017-05-24 22:45:28] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-24 22:45:28] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.47:27020, UDP)
+[2017-05-24 22:45:29] [1,2] ConnectionCompleted() (162.254.193.7:27020, UDP)
+[2017-05-24 22:45:29] [1,2] RecvMsgClientLogOnResponse() : [A:1:170402818:8592] 'OK'
+[2017-05-24 22:51:25] [3,2] LogOff()
+[2017-05-24 22:51:25] [2,2] AsyncDisconnect()
+[2017-05-24 22:51:25] [2,2] Log session ended
+
+
+[2017-05-24 22:57:04] Log session started
+[2017-05-24 22:57:04] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-24 22:57:04] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27017, UDP)
+[2017-05-24 22:57:05] [1,2] ConnectionCompleted() (162.254.193.46:27018, UDP)
+[2017-05-24 22:57:05] [1,2] RecvMsgClientLogOnResponse() : [A:1:258817028:8592] 'OK'
+[2017-05-24 23:37:26] [3,2] LogOff()
+[2017-05-24 23:37:26] [2,2] AsyncDisconnect()
+[2017-05-24 23:37:26] [2,2] Log session ended
+
+
+[2017-05-24 23:39:20] Log session started
+[2017-05-24 23:39:20] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-24 23:39:21] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27021, UDP)
+[2017-05-24 23:39:21] [1,2] ConnectionCompleted() (162.254.193.46:27018, UDP)
+[2017-05-24 23:39:21] [1,2] RecvMsgClientLogOnResponse() : [A:1:697737218:8592] 'OK'
+[2017-05-25 00:07:46] [3,2] LogOff()
+[2017-05-25 00:07:46] [2,2] AsyncDisconnect()
+[2017-05-25 00:07:46] [2,2] Log session ended
+
+
+[2017-05-25 00:22:00] Log session started
+[2017-05-25 00:22:00] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-25 00:22:00] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.7:27017, UDP)
+[2017-05-25 00:22:01] [1,2] ConnectionCompleted() (162.254.193.46:27018, UDP)
+[2017-05-25 00:22:01] [1,2] RecvMsgClientLogOnResponse() : [A:1:1101112328:8592] 'OK'
+[2017-05-25 00:27:23] [3,2] LogOff()
+[2017-05-25 00:27:23] [2,2] AsyncDisconnect()
+[2017-05-25 00:27:23] [2,2] Log session ended
+
+
+[2017-05-25 00:38:15] Log session started
+[2017-05-25 00:38:15] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-25 00:38:15] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.47:27019, UDP)
+[2017-05-25 00:38:16] [1,2] ConnectionCompleted() (162.254.193.46:27019, UDP)
+[2017-05-25 00:38:16] [1,2] RecvMsgClientLogOnResponse() : [A:1:1233197058:8592] 'OK'
+[2017-05-25 00:47:33] [3,2] LogOff()
+[2017-05-25 00:47:33] [2,2] AsyncDisconnect()
+[2017-05-25 00:47:33] [2,2] Log session ended
+
+
+[2017-05-25 00:51:34] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2017-05-25 00:51:34] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-25 00:51:34] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.6:27021, UDP)
+[2017-05-25 00:51:35] [1,2] ConnectionCompleted() (162.254.193.46:27021, UDP)
+[2017-05-25 00:51:35] [1,2] RecvMsgClientLogOnResponse() : [A:1:1312398338:8592] 'OK'
+[2017-05-25 01:02:32] [3,2] LogOff()
+[2017-05-25 01:02:32] [2,2] AsyncDisconnect()
+[2017-05-25 01:02:32] [2,2] Log session ended
+
+
+[2017-05-25 01:04:29] Log session started
+[2017-05-25 01:04:29] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-25 01:04:29] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.47:27017, UDP)
+[2017-05-25 01:04:30] [1,2] ConnectionCompleted() (162.254.193.7:27021, UDP)
+[2017-05-25 01:04:30] [1,2] RecvMsgClientLogOnResponse() : [A:1:1463741448:8592] 'OK'
+[2017-05-25 01:20:23] [3,2] LogOff()
+[2017-05-25 01:20:23] [2,2] AsyncDisconnect()
+[2017-05-25 01:20:23] [2,2] Log session ended
+
+
+[2017-05-25 01:22:19] Log session started
+[2017-05-25 01:22:19] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-25 01:22:19] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27017, UDP)
+[2017-05-25 01:22:20] [1,2] ConnectionCompleted() (162.254.193.46:27019, UDP)
+[2017-05-25 01:22:20] [1,2] RecvMsgClientLogOnResponse() : [A:1:1602625538:8592] 'OK'
+[2017-05-25 01:58:02] [3,2] LogOff()
+[2017-05-25 01:58:02] [2,2] AsyncDisconnect()
+[2017-05-25 01:58:02] [2,2] Log session ended
+
+
+[2017-05-25 01:59:36] Log session started
+[2017-05-25 01:59:36] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-25 01:59:36] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27021, UDP)
+[2017-05-25 01:59:37] [1,2] ConnectionCompleted() (162.254.193.7:27020, UDP)
+[2017-05-25 01:59:37] [1,2] RecvMsgClientLogOnResponse() : [A:1:1866927108:8592] 'OK'
+
+
+[2017-05-25 02:02:17] Log session started
+[2017-05-25 02:02:17] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-25 02:02:17] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27017, UDP)
+[2017-05-25 02:02:18] [1,2] ConnectionCompleted() (162.254.193.47:27017, UDP)
+[2017-05-25 02:02:18] [1,2] RecvMsgClientLogOnResponse() : [A:1:1940498438:8592] 'OK'
+
+
+[2017-05-25 02:05:55] Log session started
+[2017-05-25 02:05:55] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-25 02:05:55] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.7:27018, UDP)
+[2017-05-25 02:05:56] [1,2] ConnectionCompleted() (162.254.193.47:27018, UDP)
+[2017-05-25 02:05:56] [1,2] RecvMsgClientLogOnResponse() : [A:1:1942834178:8592] 'OK'
+
+
+[2017-05-25 02:07:32] Log session started
+[2017-05-25 02:07:32] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-25 02:07:32] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27017, UDP)
+[2017-05-25 02:07:33] [1,2] ConnectionCompleted() (162.254.193.46:27020, UDP)
+[2017-05-25 02:07:33] [1,2] RecvMsgClientLogOnResponse() : [A:1:1943907328:8592] 'OK'
+[2017-05-25 02:07:48] [3,2] LogOff()
+[2017-05-25 02:07:48] [2,2] AsyncDisconnect()
+[2017-05-25 02:07:48] [2,2] Log session ended
+
+
+[2017-05-25 02:15:34] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2017-05-25 02:15:34] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-25 02:15:35] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.47:27018, UDP)
+[2017-05-25 02:15:35] [1,2] ConnectionCompleted() (162.254.193.6:27020, UDP)
+[2017-05-25 02:15:35] [1,2] RecvMsgClientLogOnResponse() : [A:1:2102999048:8592] 'OK'
+[2017-05-25 02:20:12] [3,2] LogOff()
+[2017-05-25 02:20:12] [2,2] AsyncDisconnect()
+[2017-05-25 02:20:12] [2,2] Log session ended
+
+
+[2017-05-25 02:22:59] Log session started
+[2017-05-25 02:22:59] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-25 02:22:59] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27017, UDP)
+[2017-05-25 02:23:00] [1,2] ConnectionCompleted() (162.254.193.46:27017, UDP)
+[2017-05-25 02:23:00] [1,2] RecvMsgClientLogOnResponse() : [A:1:2169586688:8592] 'OK'
+[2017-05-25 02:25:56] [3,2] LogOff()
+[2017-05-25 02:25:56] [2,2] AsyncDisconnect()
+[2017-05-25 02:25:56] [2,2] Log session ended
+
+
+[2017-05-25 02:30:48] Log session started
+[2017-05-25 02:30:48] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-25 02:30:48] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.47:27018, UDP)
+[2017-05-25 02:30:48] [1,2] ConnectionCompleted() (162.254.193.46:27017, UDP)
+[2017-05-25 02:30:49] [1,2] RecvMsgClientLogOnResponse() : [A:1:2226248708:8592] 'OK'
+[2017-05-25 02:58:38] [3,2] LogOff()
+[2017-05-25 02:58:38] [2,2] AsyncDisconnect()
+[2017-05-25 02:58:38] [2,2] Log session ended
+
+
+[2017-05-25 03:00:28] Log session started
+[2017-05-25 03:00:28] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-25 03:00:28] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27017, UDP)
+[2017-05-25 03:00:31] [1,2] ConnectionCompleted() (162.254.193.6:27020, UDP)
+[2017-05-25 03:00:32] [1,2] RecvMsgClientLogOnResponse() : [A:1:2513830918:8592] 'OK'
+[2017-05-25 03:05:28] [3,2] LogOff()
+[2017-05-25 03:05:28] [2,2] AsyncDisconnect()
+[2017-05-25 03:05:28] [2,2] Log session ended
+
+
+[2017-05-25 03:08:26] Log session started
+[2017-05-25 03:08:26] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-25 03:08:26] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27017, UDP)
+[2017-05-25 03:08:27] [1,2] ConnectionCompleted() (162.254.193.46:27021, UDP)
+[2017-05-25 03:08:27] [1,2] RecvMsgClientLogOnResponse() : [A:1:2668392448:8592] 'OK'
+[2017-05-25 03:13:11] [3,2] LogOff()
+[2017-05-25 03:13:11] [2,2] AsyncDisconnect()
+[2017-05-25 03:13:11] [2,2] Log session ended
+
+
+[2017-05-25 04:11:13] Log session started
+[2017-05-25 04:11:13] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-25 04:11:13] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27017, UDP)
+[2017-05-25 04:11:17] [1,2] ConnectionCompleted() (162.254.193.47:27021, UDP)
+[2017-05-25 04:11:17] [1,2] RecvMsgClientLogOnResponse() : [A:1:3364033538:8592] 'OK'
+[2017-05-25 04:21:54] [3,2] LogOff()
+[2017-05-25 04:21:54] [2,2] AsyncDisconnect()
+[2017-05-25 04:21:54] [2,2] Log session ended
+
+
+[2017-05-25 14:14:57] Log session started
+[2017-05-25 14:14:57] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-25 14:14:57] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27018, UDP)
+[2017-05-25 14:14:58] [1,2] ConnectionCompleted() (162.254.193.47:27018, UDP)
+[2017-05-25 14:14:58] [1,2] RecvMsgClientLogOnResponse() : [A:1:100177928:8595] 'OK'
+[2017-05-25 14:18:23] [3,2] LogOff()
+[2017-05-25 14:18:23] [2,2] AsyncDisconnect()
+[2017-05-25 14:18:23] [2,2] Log session ended
+
+
+[2017-05-25 14:20:06] Log session started
+[2017-05-25 14:20:06] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-25 14:20:07] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.6:27018, UDP)
+[2017-05-25 14:20:07] [1,2] ConnectionCompleted() (162.254.193.47:27019, UDP)
+[2017-05-25 14:20:07] [1,2] RecvMsgClientLogOnResponse() : [A:1:167172098:8595] 'OK'
+[2017-05-25 14:20:52] [3,2] LogOff()
+[2017-05-25 14:20:52] [2,2] AsyncDisconnect()
+[2017-05-25 14:20:52] [2,2] Log session ended
+
+
+[2017-05-25 14:22:19] Log session started
+[2017-05-25 14:22:19] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-25 14:22:19] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.7:27021, UDP)
+[2017-05-25 14:22:20] [1,2] ConnectionCompleted() (162.254.193.6:27021, UDP)
+[2017-05-25 14:22:20] [1,2] RecvMsgClientLogOnResponse() : [A:1:241239048:8595] 'OK'
+[2017-05-25 14:26:07] [3,2] LogOff()
+[2017-05-25 14:26:07] [2,2] AsyncDisconnect()
+[2017-05-25 14:26:07] [2,2] Log session ended
+
+
+[2017-05-25 14:27:36] Log session started
+[2017-05-25 14:27:36] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-25 14:27:36] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.7:27021, UDP)
+[2017-05-25 14:27:37] [1,2] ConnectionCompleted() (162.254.193.7:27019, UDP)
+[2017-05-25 14:27:37] [1,2] RecvMsgClientLogOnResponse() : [A:1:308292608:8595] 'OK'
+[2017-05-25 14:44:31] [3,2] LogOff()
+[2017-05-25 14:44:31] [2,2] AsyncDisconnect()
+[2017-05-25 14:44:31] [2,2] Log session ended
+
+
+[2017-05-25 14:49:12] Log session started
+[2017-05-25 14:49:12] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-25 14:49:12] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27021, UDP)
+[2017-05-25 14:49:13] [1,2] ConnectionCompleted() (162.254.193.47:27017, UDP)
+[2017-05-25 14:49:13] [1,2] RecvMsgClientLogOnResponse() : [A:1:561267718:8595] 'OK'
+[2017-05-25 14:55:22] [3,2] LogOff()
+[2017-05-25 14:55:22] [2,2] AsyncDisconnect()
+[2017-05-25 14:55:22] [2,2] Log session ended
+
+
+[2017-05-25 14:56:41] Log session started
+[2017-05-25 14:56:41] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-25 14:56:41] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.7:27017, UDP)
+[2017-05-25 14:56:42] [1,2] ConnectionCompleted() (162.254.193.47:27021, UDP)
+[2017-05-25 14:56:42] [1,2] RecvMsgClientLogOnResponse() : [A:1:630134788:8595] 'OK'
+[2017-05-25 15:01:44] [3,2] LogOff()
+[2017-05-25 15:01:44] [2,2] AsyncDisconnect()
+[2017-05-25 15:01:44] [2,2] Log session ended
+
+
+[2017-05-25 15:03:20] Log session started
+[2017-05-25 15:03:20] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-25 15:03:20] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.7:27020, UDP)
+[2017-05-25 15:03:21] [1,2] ConnectionCompleted() (162.254.193.47:27021, UDP)
+[2017-05-25 15:03:21] [1,2] RecvMsgClientLogOnResponse() : [A:1:759651328:8595] 'OK'
+[2017-05-25 15:09:47] [3,2] LogOff()
+[2017-05-25 15:09:47] [2,2] AsyncDisconnect()
+[2017-05-25 15:09:47] [2,2] Log session ended
+
+
+[2017-05-25 15:11:00] Log session started
+[2017-05-25 15:11:00] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-25 15:11:01] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27019, UDP)
+[2017-05-25 15:11:01] [1,2] ConnectionCompleted() (162.254.193.6:27017, UDP)
+[2017-05-25 15:11:02] [1,2] RecvMsgClientLogOnResponse() : [A:1:833637378:8595] 'OK'
+[2017-05-25 15:13:44] [3,2] LogOff()
+[2017-05-25 15:13:44] [2,2] AsyncDisconnect()
+[2017-05-25 15:13:44] [2,2] Log session ended
+
+
+[2017-05-25 15:15:22] Log session started
+[2017-05-25 15:15:22] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-25 15:15:22] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27019, UDP)
+[2017-05-25 15:15:23] [1,2] ConnectionCompleted() (162.254.193.46:27018, UDP)
+[2017-05-25 15:15:23] [1,2] RecvMsgClientLogOnResponse() : [A:1:894239748:8595] 'OK'
+[2017-05-25 15:18:23] [3,2] LogOff()
+[2017-05-25 15:18:23] [2,2] AsyncDisconnect()
+[2017-05-25 15:18:23] [2,2] Log session ended
+
+
+[2017-05-25 15:19:52] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2017-05-25 15:19:52] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-25 15:19:52] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.6:27017, UDP)
+[2017-05-25 15:19:56] [1,2] ConnectionCompleted() (162.254.193.6:27018, UDP)
+[2017-05-25 15:19:56] [1,2] RecvMsgClientLogOnResponse() : [A:1:960067588:8595] 'OK'
+[2017-05-25 15:51:07] [3,2] LogOff()
+[2017-05-25 15:51:07] [2,2] AsyncDisconnect()
+[2017-05-25 15:51:07] [2,2] Log session ended
+
+
+[2017-05-25 15:52:35] Log session started
+[2017-05-25 15:52:35] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-25 15:52:36] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27020, UDP)
+[2017-05-25 15:52:36] [1,2] ConnectionCompleted() (162.254.193.6:27018, UDP)
+[2017-05-25 15:52:36] [1,2] RecvMsgClientLogOnResponse() : [A:1:1353364488:8595] 'OK'
+
+
+[2017-05-25 16:17:19] Log session started
+[2017-05-25 16:17:19] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-25 16:17:19] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27021, UDP)
+[2017-05-25 16:17:23] [1,2] ConnectionCompleted() (162.254.193.47:27020, UDP)
+[2017-05-25 16:17:23] [1,2] RecvMsgClientLogOnResponse() : [A:1:1620373508:8595] 'OK'
+[2017-05-25 17:48:59] [3,2] LogOff()
+[2017-05-25 17:48:59] [2,2] AsyncDisconnect()
+[2017-05-25 17:48:59] [2,2] Log session ended
+
+
+[2017-05-25 18:54:46] Log session started
+[2017-05-25 18:54:46] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-25 18:54:46] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.47:27017, UDP)
+[2017-05-25 18:54:50] [1,2] ConnectionCompleted() (162.254.193.6:27019, UDP)
+[2017-05-25 18:54:50] [1,2] RecvMsgClientLogOnResponse() : [A:1:3305289728:8595] 'OK'
+[2017-05-25 19:01:44] [3,2] LogOff()
+[2017-05-25 19:01:44] [2,2] AsyncDisconnect()
+[2017-05-25 19:01:44] [2,2] Log session ended
+
+
+[2017-05-25 19:03:39] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2017-05-25 19:03:40] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-25 19:03:40] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.47:27020, UDP)
+[2017-05-25 19:03:40] [1,2] ConnectionCompleted() (162.254.193.47:27017, UDP)
+[2017-05-25 19:03:41] [1,2] RecvMsgClientLogOnResponse() : [A:1:3377005568:8595] 'OK'
+[2017-05-25 19:13:44] [3,2] LogOff()
+[2017-05-25 19:13:44] [2,2] AsyncDisconnect()
+[2017-05-25 19:13:44] [2,2] Log session ended
+
+
+[2017-05-25 21:31:17] Log session started
+[2017-05-25 21:31:17] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-25 21:31:17] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27017, UDP)
+[2017-05-25 21:31:21] [1,2] ConnectionCompleted() (162.254.193.6:27021, UDP)
+[2017-05-25 21:31:21] [1,2] RecvMsgClientLogOnResponse() : [A:1:167320578:8596] 'OK'
+[2017-05-25 21:33:57] [3,2] LogOff()
+[2017-05-25 21:33:57] [2,2] AsyncDisconnect()
+[2017-05-25 21:33:57] [2,2] Log session ended
+
+
+[2017-05-25 21:37:23] Log session started
+[2017-05-25 21:37:23] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-25 21:37:23] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.7:27018, UDP)
+[2017-05-25 21:37:23] [1,2] ConnectionCompleted() (162.254.193.46:27019, UDP)
+[2017-05-25 21:37:24] [1,2] RecvMsgClientLogOnResponse() : [A:1:232109058:8596] 'OK'
+[2017-05-25 21:40:11] [3,2] LogOff()
+[2017-05-25 21:40:11] [2,2] AsyncDisconnect()
+[2017-05-25 21:40:11] [2,2] Log session ended
+
+
+[2017-05-25 22:29:23] Log session started
+[2017-05-25 22:29:23] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-25 22:29:23] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.6:27018, UDP)
+[2017-05-25 22:29:24] [1,2] ConnectionCompleted() (162.254.193.46:27021, UDP)
+[2017-05-25 22:29:24] [1,2] RecvMsgClientLogOnResponse() : [A:1:583426048:8596] 'OK'
+[2017-05-25 23:01:17] [3,2] LogOff()
+[2017-05-25 23:01:17] [2,2] AsyncDisconnect()
+[2017-05-25 23:01:17] [2,2] Log session ended
+
+
+[2017-05-25 23:05:06] Log session started
+[2017-05-25 23:05:06] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-25 23:05:07] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.7:27020, UDP)
+[2017-05-25 23:05:10] [1,2] ConnectionCompleted() (162.254.193.7:27021, UDP)
+[2017-05-25 23:05:11] [1,2] RecvMsgClientLogOnResponse() : [A:1:838912008:8596] 'OK'
+[2017-05-25 23:22:23] [3,2] LogOff()
+[2017-05-25 23:22:23] [2,2] AsyncDisconnect()
+[2017-05-25 23:22:23] [2,2] Log session ended
+
+
+[2017-05-25 23:40:23] Log session started
+[2017-05-25 23:40:23] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-25 23:40:23] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.7:27017, UDP)
+[2017-05-25 23:40:24] [1,2] ConnectionCompleted() (162.254.193.7:27019, UDP)
+[2017-05-25 23:40:24] [1,2] RecvMsgClientLogOnResponse() : [A:1:1456753668:8596] 'OK'
+[2017-05-25 23:41:27] [3,2] LogOff()
+[2017-05-25 23:41:27] [2,2] AsyncDisconnect()
+[2017-05-25 23:41:27] [2,2] Log session ended
+
+
+[2017-05-25 23:43:15] Log session started
+[2017-05-25 23:43:15] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-25 23:43:15] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.7:27019, UDP)
+[2017-05-25 23:43:19] [1,2] ConnectionCompleted() (162.254.193.7:27019, UDP)
+[2017-05-25 23:43:19] [1,2] RecvMsgClientLogOnResponse() : [A:1:1458267138:8596] 'OK'
+[2017-05-26 01:49:58] [3,2] LogOff()
+[2017-05-26 01:49:58] [2,2] AsyncDisconnect()
+[2017-05-26 01:49:58] [2,2] Log session ended
+
+
+[2017-05-26 01:53:03] Log session started
+[2017-05-26 01:53:03] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-26 01:53:03] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.7:27017, UDP)
+[2017-05-26 01:53:03] [1,2] ConnectionCompleted() (162.254.193.7:27017, UDP)
+[2017-05-26 01:53:04] [1,2] RecvMsgClientLogOnResponse() : [A:1:2507394048:8596] 'OK'
+[2017-05-26 03:05:39] [3,2] LogOff()
+[2017-05-26 03:05:39] [2,2] AsyncDisconnect()
+[2017-05-26 03:05:39] [2,2] Log session ended
+
+
+[2017-05-28 19:47:47] Log session started
+[2017-05-28 19:47:47] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-28 19:47:48] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.47:27021, UDP)
+[2017-05-28 19:47:49] [1,2] ConnectionCompleted() (162.254.193.47:27017, UDP)
+[2017-05-28 19:47:49] [1,2] RecvMsgClientLogOnResponse() : [A:1:405353478:8611] 'OK'
+
+
+[2017-05-28 19:57:01] Log session started
+[2017-05-28 19:57:01] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-28 19:57:01] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.6:27017, UDP)
+[2017-05-28 19:57:02] [1,2] ConnectionCompleted() (162.254.193.7:27018, UDP)
+[2017-05-28 19:57:02] [1,2] RecvMsgClientLogOnResponse() : [A:1:466345988:8611] 'OK'
+[2017-05-28 20:31:42] [0,0] ConnectionDisconnected('I/O Operation Failed') : 'OK' (162.254.193.7:27018, UDP)
+[2017-05-28 20:31:42] [0,0] StartAutoReconnect() will start in 0 seconds
+[2017-05-28 20:31:42] [1,12] Connect() starting connection (eNetQOSLevelLow, 162.254.193.6:27017, UDP)
+[2017-05-28 20:31:47] [1,0] ConnectFailed('Connection Failed':0) (0.0.0.0:0, UDP)
+[2017-05-28 20:31:47] [0,0] StartAutoReconnect() will start in 10 seconds
+[2017-05-28 20:31:57] [1,13] Connect() starting connection (eNetQOSLevelLow, 162.254.193.6:27017, TCP)
+[2017-05-28 20:32:18] [1,0] ConnectFailed('Connection Failed':5) (162.254.193.6:27017, TCP)
+[2017-05-28 20:32:18] [0,0] StartAutoReconnect() will start in 37 seconds
+[2017-05-28 20:32:55] [1,15] Connect() starting connection (eNetQOSLevelLow, 162.254.193.6:27017, TCP)
+[2017-05-28 20:33:16] [1,0] ConnectFailed('Connection Failed':5) (162.254.193.6:27017, TCP)
+[2017-05-28 20:33:16] [0,0] StartAutoReconnect() will start in 64 seconds
+[2017-05-28 20:34:20] [1,18] Connect() starting connection (eNetQOSLevelLow, 162.254.193.6:27017, UDP)
+[2017-05-28 20:34:25] [1,0] ConnectFailed('Connection Failed':0) (0.0.0.0:0, UDP)
+[2017-05-28 20:34:25] [0,0] StartAutoReconnect() will start in 72 seconds
+[2017-05-28 20:35:37] [1,19] Connect() starting connection (eNetQOSLevelLow, 162.254.193.6:27017, TCP)
+[2017-05-28 20:35:58] [1,0] ConnectFailed('Connection Failed':5) (162.254.193.6:27017, TCP)
+[2017-05-28 20:35:58] [0,0] StartAutoReconnect() will start in 237 seconds
+[2017-05-28 20:39:55] [1,22] Connect() starting connection (eNetQOSLevelLow, 162.254.193.6:27017, UDP)
+[2017-05-28 20:39:59] [1,22] ConnectionCompleted() (162.254.193.46:27018, UDP)
+[2017-05-28 20:40:00] [1,22] RecvMsgClientLogOnResponse() : [A:1:466345988:8611] 'OK'
+[2017-05-28 21:53:39] [3,22] LogOff()
+[2017-05-28 21:53:39] [2,22] AsyncDisconnect()
+[2017-05-28 21:53:39] [2,22] Log session ended
+
+
+[2017-05-28 22:40:29] Log session started
+[2017-05-28 22:40:29] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-28 22:40:30] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.47:27021, UDP)
+[2017-05-28 22:40:30] [1,2] ConnectionCompleted() (162.254.193.6:27021, UDP)
+[2017-05-28 22:40:30] [1,2] RecvMsgClientLogOnResponse() : [A:1:1690481668:8611] 'OK'
+[2017-05-28 22:46:45] [3,2] LogOff()
+[2017-05-28 22:46:45] [2,2] AsyncDisconnect()
+[2017-05-28 22:46:45] [2,2] Log session ended
+
+
+[2017-05-28 22:48:05] Log session started
+[2017-05-28 22:48:05] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-28 22:48:06] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27021, UDP)
+[2017-05-28 22:48:06] [1,2] ConnectionCompleted() (162.254.193.46:27019, UDP)
+[2017-05-28 22:48:07] [1,2] RecvMsgClientLogOnResponse() : [A:1:1751183368:8611] 'OK'
+[2017-05-28 22:48:32] [3,2] LogOff()
+[2017-05-28 22:48:32] [2,2] AsyncDisconnect()
+[2017-05-28 22:48:32] [2,2] Log session ended
+
+
+[2017-05-28 22:49:48] Log session started
+[2017-05-28 22:49:48] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-28 22:49:49] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.7:27021, UDP)
+[2017-05-28 22:49:49] [1,2] LogOff()
+[2017-05-28 22:49:49] [1,2] Log session ended
+
+
+[2017-05-28 22:50:59] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2017-05-28 22:50:59] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-28 22:51:00] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.7:27021, UDP)
+[2017-05-28 22:51:01] [1,2] ConnectionCompleted() (162.254.193.47:27020, UDP)
+[2017-05-28 22:51:01] [1,2] RecvMsgClientLogOnResponse() : [A:1:1804047368:8611] 'OK'
+[2017-05-28 23:01:26] [3,2] LogOff()
+[2017-05-28 23:01:26] [2,2] AsyncDisconnect()
+[2017-05-28 23:01:26] [2,2] Log session ended
+
+
+[2017-05-28 23:13:40] Log session started
+[2017-05-28 23:13:40] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-28 23:13:44] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27018, UDP)
+[2017-05-28 23:13:45] [1,2] ConnectionCompleted() (162.254.193.7:27017, UDP)
+[2017-05-28 23:13:45] [1,2] RecvMsgClientLogOnResponse() : [A:1:1940600838:8611] 'OK'
+[2017-05-28 23:15:53] [3,2] LogOff()
+[2017-05-28 23:15:53] [2,2] AsyncDisconnect()
+[2017-05-28 23:15:53] [2,2] Log session ended
+
+
+[2017-05-29 00:10:53] Log session started
+[2017-05-29 00:10:53] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-29 00:10:54] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.47:27018, UDP)
+[2017-05-29 00:10:55] [1,2] ConnectionCompleted() (162.254.193.47:27020, UDP)
+[2017-05-29 00:10:55] [1,2] RecvMsgClientLogOnResponse() : [A:1:2405858308:8611] 'OK'
+[2017-05-29 00:12:12] [3,2] LogOff()
+[2017-05-29 00:12:12] [2,2] AsyncDisconnect()
+[2017-05-29 00:12:12] [2,2] Log session ended
+
+
+[2017-05-29 00:13:51] Log session started
+[2017-05-29 00:13:51] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-29 00:13:52] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27018, UDP)
+[2017-05-29 00:13:53] [1,2] ConnectionCompleted() (208.64.201.176:27020, UDP)
+[2017-05-29 00:13:53] [1,2] RecvMsgClientLogOnResponse() : [A:1:2407684098:8611] 'OK'
+[2017-05-29 00:23:41] [3,2] LogOff()
+[2017-05-29 00:23:41] [2,2] AsyncDisconnect()
+[2017-05-29 00:23:41] [2,2] Log session ended
+
+
+[2017-05-29 00:33:43] Log session started
+[2017-05-29 00:33:43] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-29 00:33:43] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.7:27020, UDP)
+[2017-05-29 00:33:44] [1,2] ConnectionCompleted() (162.254.193.6:27020, UDP)
+[2017-05-29 00:33:44] [1,2] RecvMsgClientLogOnResponse() : [A:1:2604681218:8611] 'OK'
+[2017-05-29 00:36:48] [3,2] LogOff()
+[2017-05-29 00:36:48] [2,2] AsyncDisconnect()
+[2017-05-29 00:36:48] [2,2] Log session ended
+
+
+[2017-05-29 00:37:45] Log session started
+[2017-05-29 00:37:45] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-29 00:37:45] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.6:27021, UDP)
+[2017-05-29 00:37:46] [1,2] ConnectionCompleted() (162.254.193.7:27017, UDP)
+[2017-05-29 00:37:46] [1,2] RecvMsgClientLogOnResponse() : [A:1:2607271938:8611] 'OK'
+[2017-05-29 00:39:02] [3,2] LogOff()
+[2017-05-29 00:39:02] [2,2] AsyncDisconnect()
+[2017-05-29 00:39:02] [2,2] Log session ended
+
+
+[2017-05-29 00:40:37] Log session started
+[2017-05-29 00:40:37] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-29 00:40:37] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.47:27021, UDP)
+[2017-05-29 00:40:38] [1,2] ConnectionCompleted() (162.254.193.47:27021, UDP)
+[2017-05-29 00:40:38] [1,2] RecvMsgClientLogOnResponse() : [A:1:2660293638:8611] 'OK'
+[2017-05-29 00:47:44] [3,2] LogOff()
+[2017-05-29 00:47:44] [2,2] AsyncDisconnect()
+[2017-05-29 00:47:44] [2,2] Log session ended
+
+
+[2017-05-29 00:48:43] Log session started
+[2017-05-29 00:48:43] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-29 00:48:43] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.47:27018, UDP)
+[2017-05-29 00:48:47] [1,2] ConnectionCompleted() (162.254.193.7:27018, UDP)
+[2017-05-29 00:48:47] [1,2] RecvMsgClientLogOnResponse() : [A:1:2737298438:8611] 'OK'
+[2017-05-29 01:10:06] [3,2] LogOff()
+[2017-05-29 01:10:06] [2,2] AsyncDisconnect()
+[2017-05-29 01:10:06] [2,2] Log session ended
+
+
+[2017-05-29 01:11:08] Log session started
+[2017-05-29 01:11:08] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-29 01:11:08] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27019, UDP)
+[2017-05-29 01:11:09] [1,2] ConnectionCompleted() (162.254.193.46:27020, UDP)
+[2017-05-29 01:11:09] [1,2] RecvMsgClientLogOnResponse() : [A:1:2987398148:8611] 'OK'
+[2017-05-29 01:18:20] [3,2] LogOff()
+[2017-05-29 01:18:20] [2,2] AsyncDisconnect()
+[2017-05-29 01:18:20] [2,2] Log session ended
+
+
+[2017-05-29 01:20:01] Log session started
+[2017-05-29 01:20:01] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-29 01:20:02] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.6:27019, UDP)
+[2017-05-29 01:20:05] [1,2] ConnectionCompleted() (162.254.193.6:27018, UDP)
+[2017-05-29 01:20:06] [1,2] RecvMsgClientLogOnResponse() : [A:1:3054921728:8611] 'OK'
+[2017-05-29 01:24:19] [3,2] LogOff()
+[2017-05-29 01:24:19] [2,2] AsyncDisconnect()
+[2017-05-29 01:24:19] [2,2] Log session ended
+
+
+[2017-05-29 01:26:15] Log session started
+[2017-05-29 01:26:15] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-29 01:26:15] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.47:27021, UDP)
+[2017-05-29 01:26:16] [1,2] ConnectionCompleted() (162.254.193.6:27017, UDP)
+[2017-05-29 01:26:16] [1,2] RecvMsgClientLogOnResponse() : [A:1:3115313158:8611] 'OK'
+[2017-05-29 01:27:51] [3,2] LogOff()
+[2017-05-29 01:27:51] [2,2] AsyncDisconnect()
+[2017-05-29 01:27:51] [2,2] Log session ended
+
+
+[2017-05-29 01:28:07] Log session started
+[2017-05-29 01:28:07] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-29 01:28:08] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.47:27020, UDP)
+[2017-05-29 01:28:08] [1,2] ConnectionCompleted() (162.254.193.46:27021, UDP)
+[2017-05-29 01:28:09] [1,2] RecvMsgClientLogOnResponse() : [A:1:3116516358:8611] 'OK'
+[2017-05-29 01:29:08] [3,2] LogOff()
+[2017-05-29 01:29:08] [2,2] AsyncDisconnect()
+[2017-05-29 01:29:08] [2,2] Log session ended
+
+
+[2017-05-29 01:29:38] Log session started
+[2017-05-29 01:29:38] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-29 01:29:39] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.47:27021, UDP)
+[2017-05-29 01:29:39] [1,2] ConnectionCompleted() (162.254.193.6:27019, UDP)
+[2017-05-29 01:29:40] [1,2] RecvMsgClientLogOnResponse() : [A:1:3117554688:8611] 'OK'
+[2017-05-29 02:45:42] [3,2] LogOff()
+[2017-05-29 02:45:42] [2,2] AsyncDisconnect()
+[2017-05-29 02:45:42] [2,2] Log session ended
+
+
+[2017-05-29 02:46:17] Log session started
+[2017-05-29 02:46:17] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-29 02:46:18] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.7:27018, UDP)
+[2017-05-29 02:46:19] [1,2] ConnectionCompleted() (162.254.193.7:27017, UDP)
+[2017-05-29 02:46:19] [1,2] RecvMsgClientLogOnResponse() : [A:1:3939807238:8611] 'OK'
+
+
+[2017-05-29 02:47:17] Log session started
+[2017-05-29 02:47:17] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-29 02:47:17] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.7:27020, UDP)
+[2017-05-29 02:47:18] [1,2] ConnectionCompleted() (162.254.193.7:27018, UDP)
+[2017-05-29 02:47:18] [1,2] RecvMsgClientLogOnResponse() : [A:1:3940464648:8611] 'OK'
+[2017-05-29 02:47:32] [3,2] LogOff()
+[2017-05-29 02:47:32] [2,2] AsyncDisconnect()
+[2017-05-29 02:47:32] [2,2] Log session ended
+
+
+[2017-05-29 02:51:08] Log session started
+[2017-05-29 02:51:08] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-29 02:51:09] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.7:27017, UDP)
+[2017-05-29 02:51:10] [1,2] ConnectionCompleted() (162.254.193.7:27017, UDP)
+[2017-05-29 02:51:10] [1,2] RecvMsgClientLogOnResponse() : [A:1:3943311368:8611] 'OK'
+[2017-05-29 02:51:24] [3,2] LogOff()
+[2017-05-29 02:51:24] [2,2] AsyncDisconnect()
+[2017-05-29 02:51:24] [2,2] Log session ended
+
+
+[2017-05-29 02:54:05] Log session started
+[2017-05-29 02:54:05] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-29 02:54:05] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.47:27017, UDP)
+[2017-05-29 02:54:06] [1,2] ConnectionCompleted() (162.254.193.46:27017, UDP)
+[2017-05-29 02:54:06] [1,2] RecvMsgClientLogOnResponse() : [A:1:4027358208:8611] 'OK'
+[2017-05-29 02:54:20] [3,2] LogOff()
+[2017-05-29 02:54:20] [2,2] AsyncDisconnect()
+[2017-05-29 02:54:20] [2,2] Log session ended
+
+
+[2017-05-29 03:01:53] Log session started
+[2017-05-29 03:01:53] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-29 03:01:53] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.6:27020, UDP)
+[2017-05-29 03:01:54] [1,2] ConnectionCompleted() (162.254.193.7:27018, UDP)
+[2017-05-29 03:01:54] [1,2] RecvMsgClientLogOnResponse() : [A:1:4084513798:8611] 'OK'
+
+
+[2017-05-29 03:03:17] Log session started
+[2017-05-29 03:03:17] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-29 03:03:17] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.7:27021, UDP)
+[2017-05-29 03:03:18] [1,2] ConnectionCompleted() (162.254.193.46:27017, UDP)
+[2017-05-29 03:03:18] [1,2] RecvMsgClientLogOnResponse() : [A:1:4085605378:8611] 'OK'
+[2017-05-29 03:05:05] [3,2] LogOff()
+[2017-05-29 03:05:05] [2,2] AsyncDisconnect()
+[2017-05-29 03:05:05] [2,2] Log session ended
+
+
+[2017-05-29 03:06:53] Log session started
+[2017-05-29 03:06:53] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-29 03:06:53] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.47:27021, UDP)
+[2017-05-29 03:06:54] [1,2] ConnectionCompleted() (162.254.193.46:27018, UDP)
+[2017-05-29 03:06:54] [1,2] RecvMsgClientLogOnResponse() : [A:1:4180543488:8611] 'OK'
+[2017-05-29 03:07:16] [3,2] LogOff()
+[2017-05-29 03:07:16] [2,2] AsyncDisconnect()
+[2017-05-29 03:07:16] [2,2] Log session ended
+
+
+[2017-05-29 03:08:11] Log session started
+[2017-05-29 03:08:11] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-29 03:08:12] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.6:27021, UDP)
+[2017-05-29 03:08:12] [1,2] ConnectionCompleted() (162.254.193.6:27021, UDP)
+[2017-05-29 03:08:13] [1,2] RecvMsgClientLogOnResponse() : [A:1:4181559298:8611] 'OK'
+
+
+[2017-05-29 03:09:46] Log session started
+[2017-05-29 03:09:46] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-29 03:09:47] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.7:27017, UDP)
+[2017-05-29 03:09:47] [1,2] ConnectionCompleted() (162.254.193.7:27017, UDP)
+[2017-05-29 03:09:47] [1,2] LogOff()
+[2017-05-29 03:09:47] [1,2] AsyncDisconnect()
+[2017-05-29 03:09:47] [1,2] Log session ended
+
+
+[2017-05-29 03:14:52] Log session started
+[2017-05-29 03:14:52] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-29 03:14:52] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.7:27017, UDP)
+[2017-05-29 03:14:53] [1,2] ConnectionCompleted() (162.254.193.47:27019, UDP)
+[2017-05-29 03:14:53] [1,2] RecvMsgClientLogOnResponse() : [A:1:4253127688:8611] 'OK'
+[2017-05-29 03:15:08] [3,2] LogOff()
+[2017-05-29 03:15:08] [2,2] AsyncDisconnect()
+[2017-05-29 03:15:08] [2,2] Log session ended
+
+
+[2017-05-29 03:17:09] Log session started
+[2017-05-29 03:17:09] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-29 03:17:10] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.7:27021, UDP)
+[2017-05-29 03:17:10] [1,2] ConnectionCompleted() (162.254.193.6:27020, UDP)
+[2017-05-29 03:17:10] [1,2] RecvMsgClientLogOnResponse() : [A:1:4254868488:8611] 'OK'
+[2017-05-29 03:19:03] [3,2] LogOff()
+[2017-05-29 03:19:03] [2,2] AsyncDisconnect()
+[2017-05-29 03:19:03] [2,2] Log session ended
+
+
+[2017-05-29 21:49:40] Log session started
+[2017-05-29 21:49:40] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-29 21:49:41] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27020, UDP)
+[2017-05-29 21:49:41] [1,2] ConnectionCompleted() (162.254.193.47:27021, UDP)
+[2017-05-29 21:49:41] [1,2] RecvMsgClientLogOnResponse() : [A:1:3822265348:8616] 'OK'
+[2017-05-29 21:50:17] [3,2] LogOff()
+[2017-05-29 21:50:17] [2,2] AsyncDisconnect()
+[2017-05-29 21:50:17] [2,2] Log session ended
+
+
+[2017-05-29 21:51:52] Log session started
+[2017-05-29 21:51:52] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-29 21:51:53] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.7:27019, UDP)
+[2017-05-29 21:51:53] [1,2] ConnectionCompleted() (162.254.193.7:27019, UDP)
+[2017-05-29 21:51:53] [1,2] RecvMsgClientLogOnResponse() : [A:1:3823501318:8616] 'OK'
+[2017-05-30 00:50:49] [3,2] LogOff()
+[2017-05-30 00:50:49] [2,2] AsyncDisconnect()
+[2017-05-30 00:50:49] [2,2] Log session ended
+
+
+[2017-05-30 20:04:34] Log session started
+[2017-05-30 20:04:34] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-30 20:04:35] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.7:27019, UDP)
+[2017-05-30 20:04:35] [1,2] ConnectionCompleted() (162.254.193.7:27019, UDP)
+[2017-05-30 20:04:35] [1,2] RecvMsgClientLogOnResponse() : [A:1:2584578048:8620] 'OK'
+[2017-05-30 23:03:29] [3,2] LogOff()
+[2017-05-30 23:03:29] [2,2] AsyncDisconnect()
+[2017-05-30 23:03:29] [2,2] Log session ended
+
+
+[2017-05-30 23:04:59] Log session started
+[2017-05-30 23:04:59] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-30 23:05:00] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27021, UDP)
+[2017-05-30 23:05:00] [1,2] ConnectionCompleted() (162.254.193.7:27020, UDP)
+[2017-05-30 23:05:00] [1,2] RecvMsgClientLogOnResponse() : [A:1:1366047748:8621] 'OK'
+[2017-05-30 23:46:30] [3,2] LogOff()
+[2017-05-30 23:46:30] [2,2] AsyncDisconnect()
+[2017-05-30 23:46:30] [2,2] Log session ended
+
+
+[2017-05-31 00:00:03] Log session started
+[2017-05-31 00:00:03] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-31 00:00:03] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.47:27017, UDP)
+[2017-05-31 00:00:04] [1,2] ConnectionCompleted() (162.254.193.46:27021, UDP)
+[2017-05-31 00:00:04] [1,2] RecvMsgClientLogOnResponse() : [A:1:1707268098:8621] 'OK'
+
+
+[2017-05-31 00:02:06] Log session started
+[2017-05-31 00:02:06] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-31 00:02:07] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.7:27019, UDP)
+[2017-05-31 00:02:07] [1,2] ConnectionCompleted() (162.254.193.47:27019, UDP)
+[2017-05-31 00:02:08] [1,2] RecvMsgClientLogOnResponse() : [A:1:1708436488:8621] 'OK'
+
+
+[2017-05-31 00:04:12] Log session started
+[2017-05-31 00:04:12] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-31 00:04:12] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.6:27018, UDP)
+[2017-05-31 00:04:13] [1,2] ConnectionCompleted() (162.254.193.6:27017, UDP)
+[2017-05-31 00:04:13] [1,2] RecvMsgClientLogOnResponse() : [A:1:1811949568:8621] 'OK'
+[2017-05-31 00:05:17] [0,0] ConnectionDisconnected('I/O Operation Failed') : 'OK' (162.254.193.6:27017, UDP)
+[2017-05-31 00:05:17] [0,0] StartAutoReconnect() will start in 0 seconds
+[2017-05-31 00:05:17] [1,6] Connect() starting connection (eNetQOSLevelLow, 162.254.193.6:27018, UDP)
+[2017-05-31 00:05:21] [1,6] ConnectionCompleted() (208.78.164.9:27018, UDP)
+[2017-05-31 00:05:21] [1,6] RecvMsgClientLogOnResponse() : [A:1:1811949568:8621] 'OK'
+[2017-05-31 02:36:40] [3,6] LogOff()
+[2017-05-31 02:36:40] [2,6] AsyncDisconnect()
+[2017-05-31 02:36:40] [2,6] Log session ended
+
+
+[2017-05-31 02:41:08] Log session started
+[2017-05-31 02:41:08] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-31 02:41:08] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.7:27019, UDP)
+[2017-05-31 02:41:09] [1,2] ConnectionCompleted() (162.254.193.6:27019, UDP)
+[2017-05-31 02:41:09] [1,2] RecvMsgClientLogOnResponse() : [A:1:3090633728:8621] 'OK'
+[2017-05-31 02:45:55] [3,2] LogOff()
+[2017-05-31 02:45:55] [2,2] AsyncDisconnect()
+[2017-05-31 02:45:55] [2,2] Log session ended
+
+
+[2017-05-31 02:49:53] Log session started
+[2017-05-31 02:49:53] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-31 02:49:53] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.7:27019, UDP)
+[2017-05-31 02:49:54] [1,2] ConnectionCompleted() (162.254.193.7:27019, UDP)
+[2017-05-31 02:49:54] [1,2] RecvMsgClientLogOnResponse() : [A:1:3219351558:8621] 'OK'
+[2017-05-31 02:51:15] [3,2] LogOff()
+[2017-05-31 02:51:15] [2,2] AsyncDisconnect()
+[2017-05-31 02:51:15] [2,2] Log session ended
+
+
+[2017-05-31 03:25:28] Log session started
+[2017-05-31 03:25:28] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-31 03:25:28] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.47:27020, UDP)
+[2017-05-31 03:25:29] [1,2] ConnectionCompleted() (162.254.193.46:27019, UDP)
+[2017-05-31 03:25:29] [1,2] RecvMsgClientLogOnResponse() : [A:1:3500592128:8621] 'OK'
+
+
+[2017-05-31 03:29:24] Log session started
+[2017-05-31 03:29:24] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-31 03:29:24] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.6:27021, UDP)
+[2017-05-31 03:29:24] [1,2] ConnectionCompleted() (162.254.193.6:27019, UDP)
+[2017-05-31 03:29:24] [1,2] RecvMsgClientLogOnResponse() : [A:1:3559766018:8621] 'OK'
+[2017-05-31 04:00:25] [3,2] LogOff()
+[2017-05-31 04:00:25] [2,2] AsyncDisconnect()
+[2017-05-31 04:00:25] [2,2] Log session ended
+
+
+[2017-05-31 04:01:59] Log session started
+[2017-05-31 04:01:59] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-31 04:01:59] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.7:27020, UDP)
+[2017-05-31 04:02:00] [1,2] ConnectionCompleted() (162.254.193.7:27021, UDP)
+[2017-05-31 04:02:00] [1,2] RecvMsgClientLogOnResponse() : [A:1:3865530368:8621] 'OK'
+[2017-05-31 07:00:55] [3,2] LogOff()
+[2017-05-31 07:00:55] [2,2] AsyncDisconnect()
+[2017-05-31 07:00:55] [2,2] Log session ended
+
+
+[2017-05-31 15:06:06] Log session started
+[2017-05-31 15:06:06] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-31 15:06:06] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.7:27017, UDP)
+[2017-05-31 15:06:06] [1,2] ConnectionCompleted() (162.254.193.46:27020, UDP)
+[2017-05-31 15:06:07] [1,2] RecvMsgClientLogOnResponse() : [A:1:436028418:8624] 'OK'
+[2017-05-31 18:04:54] [3,2] LogOff()
+[2017-05-31 18:04:54] [2,2] AsyncDisconnect()
+[2017-05-31 18:04:54] [2,2] Log session ended
+
+
+[2017-05-31 18:23:29] Log session started
+[2017-05-31 18:23:29] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-31 18:23:30] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27018, UDP)
+[2017-05-31 18:23:30] [1,2] ConnectionCompleted() (162.254.193.46:27019, UDP)
+[2017-05-31 18:23:30] [1,2] RecvMsgClientLogOnResponse() : [A:1:2466951168:8624] 'OK'
+[2017-05-31 19:06:15] [3,2] LogOff()
+[2017-05-31 19:06:15] [2,2] AsyncDisconnect()
+[2017-05-31 19:06:15] [2,2] Log session ended
+
+
+[2017-05-31 19:08:18] Log session started
+[2017-05-31 19:08:18] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-31 19:08:18] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.6:27021, UDP)
+[2017-05-31 19:08:19] [1,2] ConnectionCompleted() (162.254.193.46:27020, UDP)
+[2017-05-31 19:08:19] [1,2] RecvMsgClientLogOnResponse() : [A:1:2791718918:8624] 'OK'
+[2017-05-31 21:49:50] [3,2] LogOff()
+[2017-05-31 21:49:50] [2,2] AsyncDisconnect()
+[2017-05-31 21:49:50] [2,2] Log session ended
+
+
+[2017-05-31 21:59:23] Log session started
+[2017-05-31 21:59:23] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-31 21:59:24] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.47:27019, UDP)
+[2017-05-31 21:59:25] [1,2] ConnectionCompleted() (162.254.193.6:27018, UDP)
+[2017-05-31 21:59:25] [1,2] RecvMsgClientLogOnResponse() : [A:1:3875994628:8624] 'OK'
+
+
+[2017-05-31 22:21:18] Log session started
+[2017-05-31 22:21:18] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-31 22:21:19] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.7:27019, UDP)
+[2017-05-31 22:21:19] [1,2] ConnectionCompleted() (162.254.193.7:27018, UDP)
+[2017-05-31 22:21:20] [1,2] RecvMsgClientLogOnResponse() : [A:1:4072694788:8624] 'OK'
+
+
+[2017-05-31 23:02:13] Log session started
+[2017-05-31 23:02:13] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-31 23:02:15] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.6:27021, UDP)
+[2017-05-31 23:02:15] [1,2] ConnectionCompleted() (162.254.193.47:27017, UDP)
+[2017-05-31 23:02:16] [1,2] RecvMsgClientLogOnResponse() : [A:1:44888068:8625] 'OK'
+[2017-05-31 23:05:41] [3,2] LogOff()
+[2017-05-31 23:05:41] [2,2] AsyncDisconnect()
+[2017-05-31 23:05:41] [2,2] Log session ended
+
+
+[2017-05-31 23:07:02] Log session started
+[2017-05-31 23:07:02] [0,0] SetSteamID( [A:1:0:0] )
+[2017-05-31 23:07:03] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27020, UDP)
+[2017-05-31 23:07:07] [1,2] ConnectionCompleted() (162.254.193.46:27018, UDP)
+[2017-05-31 23:07:07] [1,2] RecvMsgClientLogOnResponse() : [A:1:47452168:8625] 'OK'
+
+
+[2017-06-01 02:01:43] Log session started
+[2017-06-01 02:01:43] [0,0] SetSteamID( [A:1:0:0] )
+[2017-06-01 02:01:44] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27018, UDP)
+[2017-06-01 02:01:45] [1,2] ConnectionCompleted() (162.254.193.46:27020, UDP)
+[2017-06-01 02:01:45] [1,2] RecvMsgClientLogOnResponse() : [A:1:1460597768:8625] 'OK'
+
+
+[2017-06-01 05:01:40] Log session started
+[2017-06-01 05:01:40] [0,0] SetSteamID( [A:1:0:0] )
+[2017-06-01 05:01:41] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27019, UDP)
+[2017-06-01 05:01:41] [1,2] ConnectionCompleted() (162.254.193.46:27019, UDP)
+[2017-06-01 05:01:41] [1,2] RecvMsgClientLogOnResponse() : [A:1:3575257088:8625] 'OK'
+
+
+[2017-06-01 08:02:32] Log session started
+[2017-06-01 08:02:32] [0,0] SetSteamID( [A:1:0:0] )
+[2017-06-01 08:02:33] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.7:27019, UDP)
+[2017-06-01 08:02:34] [1,2] ConnectionCompleted() (162.254.193.46:27020, UDP)
+[2017-06-01 08:02:34] [1,2] RecvMsgClientLogOnResponse() : [A:1:1430559748:8626] 'OK'
+
+
+[2017-06-01 11:01:45] Log session started
+[2017-06-01 11:01:45] [0,0] SetSteamID( [A:1:0:0] )
+[2017-06-01 11:01:48] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.47:27020, UDP)
+[2017-06-01 11:01:49] [1,2] ConnectionCompleted() (162.254.193.47:27020, UDP)
+[2017-06-01 11:01:49] [1,2] RecvMsgClientLogOnResponse() : [A:1:431110148:8627] 'OK'
+
+
+[2017-06-01 14:01:42] Log session started
+[2017-06-01 14:01:42] [0,0] SetSteamID( [A:1:0:0] )
+[2017-06-01 14:01:43] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27021, UDP)
+[2017-06-01 14:01:44] [1,2] ConnectionCompleted() (162.254.193.6:27019, UDP)
+[2017-06-01 14:01:44] [1,2] RecvMsgClientLogOnResponse() : [A:1:4036722688:8627] 'OK'
+[2017-06-01 16:40:56] [3,2] LogOff()
+[2017-06-01 16:40:56] [2,2] AsyncDisconnect()
+[2017-06-01 16:40:56] [2,2] Log session ended
+
+
+[2017-06-01 17:04:59] Log session started
+[2017-06-01 17:04:59] [0,0] SetSteamID( [A:1:0:0] )
+[2017-06-01 17:05:00] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.7:27018, UDP)
+[2017-06-01 17:05:00] [1,2] ConnectionCompleted() (162.254.193.6:27017, UDP)
+[2017-06-01 17:05:01] [1,2] RecvMsgClientLogOnResponse() : [A:1:2337799168:8628] 'OK'
+
+
+[2017-06-01 20:02:31] Log session started
+[2017-06-01 20:02:31] [0,0] SetSteamID( [A:1:0:0] )
+[2017-06-01 20:02:32] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27019, UDP)
+[2017-06-01 20:02:33] [1,2] ConnectionCompleted() (162.254.193.46:27019, UDP)
+[2017-06-01 20:02:33] [1,2] RecvMsgClientLogOnResponse() : [A:1:4290761728:8628] 'OK'
+
+
+[2017-06-01 23:01:48] Log session started
+[2017-06-01 23:01:48] [0,0] SetSteamID( [A:1:0:0] )
+[2017-06-01 23:01:49] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.7:27021, UDP)
+[2017-06-01 23:01:49] [1,2] ConnectionCompleted() (162.254.193.47:27017, UDP)
+[2017-06-01 23:01:50] [1,2] RecvMsgClientLogOnResponse() : [A:1:1253695488:8629] 'OK'
+[2017-06-02 02:00:36] [3,2] LogOff()
+[2017-06-02 02:00:36] [2,2] AsyncDisconnect()
+[2017-06-02 02:00:36] [2,2] Log session ended
+
+
+[2017-06-02 02:13:32] Log session started
+[2017-06-02 02:13:32] [0,0] SetSteamID( [A:1:0:0] )
+[2017-06-02 02:13:32] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.7:27018, UDP)
+[2017-06-02 02:13:33] [1,2] ConnectionCompleted() (162.254.193.7:27021, UDP)
+[2017-06-02 02:13:33] [1,2] RecvMsgClientLogOnResponse() : [A:1:2640102408:8629] 'OK'
+[2017-06-02 03:44:31] [3,2] LogOff()
+[2017-06-02 03:44:31] [2,2] AsyncDisconnect()
+[2017-06-02 03:44:31] [2,2] Log session ended
+
+
+[2017-06-21 01:20:04] Log session started
+[2017-06-21 01:20:04] [0,0] SetSteamID( [A:1:0:0] )
+[2017-06-21 01:20:04] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.47:27017, UDP)
+[2017-06-21 01:20:05] [1,2] ConnectionCompleted() (162.254.193.6:27018, UDP)
+[2017-06-21 01:20:05] [1,2] RecvMsgClientLogOnResponse() : [A:1:492411908:8715] 'OK'
+[2017-06-21 01:21:52] [3,2] LogOff()
+[2017-06-21 01:21:52] [2,2] AsyncDisconnect()
+[2017-06-21 01:21:52] [2,2] Log session ended
+
+
+[2017-06-21 01:43:26] Log session started
+[2017-06-21 01:43:26] [0,0] SetSteamID( [A:1:0:0] )
+[2017-06-21 01:43:26] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.6:27021, UDP)
+[2017-06-21 01:43:27] [1,2] ConnectionCompleted() (162.254.193.46:27019, UDP)
+[2017-06-21 01:43:27] [1,2] RecvMsgClientLogOnResponse() : [A:1:705601538:8715] 'OK'
+[2017-06-21 01:45:27] [3,2] LogOff()
+[2017-06-21 01:45:27] [2,2] AsyncDisconnect()
+[2017-06-21 01:45:27] [2,2] Log session ended
+
+
+[2017-06-21 02:33:08] Log session started
+[2017-06-21 02:33:08] [0,0] SetSteamID( [A:1:0:0] )
+[2017-06-21 02:33:08] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.6:27019, UDP)
+[2017-06-21 02:33:08] [1,2] ConnectionCompleted() (162.254.193.6:27021, UDP)
+[2017-06-21 02:33:09] [1,2] RecvMsgClientLogOnResponse() : [A:1:1063153668:8715] 'OK'
+[2017-06-21 02:35:24] [3,2] LogOff()
+[2017-06-21 02:35:24] [2,2] AsyncDisconnect()
+[2017-06-21 02:35:24] [2,2] Log session ended
+
+
+[2017-06-21 18:52:03] Log session started
+[2017-06-21 18:52:03] [0,0] SetSteamID( [A:1:0:0] )
+[2017-06-21 18:52:04] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.6:27019, UDP)
+[2017-06-21 18:52:04] [1,2] ConnectionCompleted() (162.254.193.6:27019, UDP)
+[2017-06-21 18:52:04] [1,2] LogOff()
+[2017-06-21 18:52:04] [1,2] AsyncDisconnect()
+[2017-06-21 18:52:04] [1,2] Log session ended
+
+
+[2017-06-21 18:53:49] Log session started
+[2017-06-21 18:53:49] [0,0] SetSteamID( [A:1:0:0] )
+[2017-06-21 18:53:50] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.6:27019, UDP)
+[2017-06-21 18:53:50] [1,2] ConnectionCompleted() (162.254.193.46:27021, UDP)
+[2017-06-21 18:53:50] [1,2] RecvMsgClientLogOnResponse() : [A:1:203139078:8719] 'OK'
+[2017-06-21 19:21:52] [3,2] LogOff()
+[2017-06-21 19:21:52] [2,2] AsyncDisconnect()
+[2017-06-21 19:21:52] [2,2] Log session ended
+
+
+[2017-06-21 19:37:58] Log session started
+[2017-06-21 19:37:58] [0,0] SetSteamID( [A:1:0:0] )
+[2017-06-21 19:37:58] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27021, UDP)
+[2017-06-21 19:37:59] [1,2] ConnectionCompleted() (162.254.193.46:27020, UDP)
+[2017-06-21 19:37:59] [1,2] RecvMsgClientLogOnResponse() : [A:1:475990018:8719] 'OK'
+[2017-06-21 19:56:05] [3,2] LogOff()
+[2017-06-21 19:56:05] [2,2] AsyncDisconnect()
+[2017-06-21 19:56:05] [2,2] Log session ended
+
+
+[2017-06-21 19:58:41] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2017-06-21 19:58:41] [0,0] SetSteamID( [A:1:0:0] )
+[2017-06-21 19:58:42] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27020, UDP)
+[2017-06-21 19:58:42] [1,2] ConnectionCompleted() (162.254.193.6:27020, UDP)
+[2017-06-21 19:58:42] [1,2] RecvMsgClientLogOnResponse() : [A:1:598654978:8719] 'OK'
+[2017-06-21 20:01:58] [3,2] LogOff()
+[2017-06-21 20:01:58] [2,2] AsyncDisconnect()
+[2017-06-21 20:01:58] [2,2] Log session ended
+
+
+[2017-06-21 20:34:05] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2017-06-21 20:34:05] [0,0] SetSteamID( [A:1:0:0] )
+[2017-06-21 20:34:05] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27018, UDP)
+[2017-06-21 20:34:09] [1,2] ConnectionCompleted() (162.254.193.47:27021, UDP)
+[2017-06-21 20:34:09] [1,2] RecvMsgClientLogOnResponse() : [A:1:804957188:8719] 'OK'
+[2017-06-21 23:12:48] [3,2] LogOff()
+[2017-06-21 23:12:48] [2,2] AsyncDisconnect()
+[2017-06-21 23:12:48] [2,2] Log session ended
+
+
+[2017-06-22 15:35:57] Log session started
+[2017-06-22 15:35:57] [0,0] SetSteamID( [A:1:0:0] )
+[2017-06-22 15:35:57] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.47:27019, UDP)
+[2017-06-22 15:35:58] [1,2] ConnectionCompleted() (162.254.193.47:27019, UDP)
+[2017-06-22 15:35:58] [1,2] RecvMsgClientLogOnResponse() : [A:1:2244185088:8722] 'OK'
+[2017-06-22 17:50:55] [3,2] LogOff()
+[2017-06-22 17:50:55] [2,2] AsyncDisconnect()
+[2017-06-22 17:50:55] [2,2] Log session ended
+
+
+[2017-06-22 17:58:37] Log session started
+[2017-06-22 17:58:37] [0,0] SetSteamID( [A:1:0:0] )
+[2017-06-22 17:58:38] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27017, UDP)
+[2017-06-22 17:58:38] [1,2] ConnectionCompleted() (162.254.193.7:27021, UDP)
+[2017-06-22 17:58:39] [1,2] RecvMsgClientLogOnResponse() : [A:1:4281249798:8722] 'OK'
+[2017-06-22 20:38:55] [3,2] LogOff()
+[2017-06-22 20:38:55] [2,2] AsyncDisconnect()
+[2017-06-22 20:38:55] [2,2] Log session ended
+
+
+[2017-06-22 20:40:17] Log session started
+[2017-06-22 20:40:17] [0,0] SetSteamID( [A:1:0:0] )
+[2017-06-22 20:40:18] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.6:27017, UDP)
+[2017-06-22 20:40:18] [1,2] ConnectionCompleted() (162.254.193.47:27021, UDP)
+[2017-06-22 20:40:18] [1,2] RecvMsgClientLogOnResponse() : [A:1:1185878018:8723] 'OK'
+[2017-06-22 21:31:40] [3,2] LogOff()
+[2017-06-22 21:31:40] [2,2] AsyncDisconnect()
+[2017-06-22 21:31:40] [2,2] Log session ended
+
+
+[2017-06-23 15:39:44] Log session started
+[2017-06-23 15:39:44] [0,0] SetSteamID( [A:1:0:0] )
+[2017-06-23 15:39:44] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.47:27021, UDP)
+[2017-06-23 15:39:45] [1,2] ConnectionCompleted() (162.254.193.47:27017, UDP)
+[2017-06-23 15:39:45] [1,2] RecvMsgClientLogOnResponse() : [A:1:1186926598:8727] 'OK'
+[2017-06-23 16:42:18] [3,2] LogOff()
+[2017-06-23 16:42:18] [2,2] AsyncDisconnect()
+[2017-06-23 16:42:18] [2,2] Log session ended
+
+
+[2017-06-23 16:45:59] Log session started
+[2017-06-23 16:45:59] [0,0] SetSteamID( [A:1:0:0] )
+[2017-06-23 16:46:00] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27017, UDP)
+[2017-06-23 16:46:00] [1,2] ConnectionCompleted() (162.254.193.46:27018, UDP)
+[2017-06-23 16:46:00] [1,2] RecvMsgClientLogOnResponse() : [A:1:1867600898:8727] 'OK'
+
+
+[2017-06-23 16:51:13] Log session started
+[2017-06-23 16:51:13] [0,0] SetSteamID( [A:1:0:0] )
+[2017-06-23 16:51:13] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27020, UDP)
+[2017-06-23 16:51:14] [1,2] ConnectionCompleted() (162.254.193.47:27020, UDP)
+[2017-06-23 16:51:14] [1,2] RecvMsgClientLogOnResponse() : [A:1:1938319368:8727] 'OK'
+
+
+[2017-06-23 16:53:35] Log session started
+[2017-06-23 16:53:35] [0,0] SetSteamID( [A:1:0:0] )
+[2017-06-23 16:53:35] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27017, UDP)
+[2017-06-23 16:53:36] [1,2] ConnectionCompleted() (162.254.193.47:27018, UDP)
+[2017-06-23 16:53:36] [1,2] RecvMsgClientLogOnResponse() : [A:1:1940145158:8727] 'OK'
+
+
+[2017-06-23 16:58:17] Log session started
+[2017-06-23 16:58:17] [0,0] SetSteamID( [A:1:0:0] )
+[2017-06-23 16:58:17] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27017, UDP)
+[2017-06-23 16:58:18] [1,2] ConnectionCompleted() (162.254.193.6:27017, UDP)
+[2017-06-23 16:58:18] [1,2] RecvMsgClientLogOnResponse() : [A:1:1999997958:8727] 'OK'
+
+
+[2017-06-23 17:01:30] Log session started
+[2017-06-23 17:01:30] [0,0] SetSteamID( [A:1:0:0] )
+[2017-06-23 17:01:30] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27019, UDP)
+[2017-06-23 17:01:30] [1,2] ConnectionCompleted() (162.254.193.6:27021, UDP)
+[2017-06-23 17:01:31] [1,2] RecvMsgClientLogOnResponse() : [A:1:2002543618:8727] 'OK'
+
+
+[2017-06-23 17:03:25] Log session started
+[2017-06-23 17:03:25] [0,0] SetSteamID( [A:1:0:0] )
+[2017-06-23 17:03:26] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27017, UDP)
+[2017-06-23 17:03:26] [1,2] ConnectionCompleted() (208.78.164.11:27018, UDP)
+[2017-06-23 17:03:27] [1,2] RecvMsgClientLogOnResponse() : [A:1:2003998728:8727] 'OK'
+
+
+[2017-06-23 17:05:57] Log session started
+[2017-06-23 17:05:57] [0,0] SetSteamID( [A:1:0:0] )
+[2017-06-23 17:05:57] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.6:27021, UDP)
+[2017-06-23 17:05:58] [1,2] ConnectionCompleted() (162.254.193.6:27021, UDP)
+[2017-06-23 17:05:58] [1,2] RecvMsgClientLogOnResponse() : [A:1:2790784008:8727] 'OK'
+
+
+[2017-06-23 17:10:07] Log session started
+[2017-06-23 17:10:07] [0,0] SetSteamID( [A:1:0:0] )
+[2017-06-23 17:10:08] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.7:27020, UDP)
+[2017-06-23 17:10:08] [1,2] ConnectionCompleted() (162.254.193.7:27019, UDP)
+[2017-06-23 17:10:09] [1,2] RecvMsgClientLogOnResponse() : [A:1:3020360708:8727] 'OK'
+[2017-06-23 17:36:08] [3,2] LogOff()
+[2017-06-23 17:36:08] [2,2] AsyncDisconnect()
+[2017-06-23 17:36:08] [2,2] Log session ended
+
+
+[2017-06-23 21:10:35] Log session started
+[2017-06-23 21:10:35] [0,0] SetSteamID( [A:1:0:0] )
+[2017-06-23 21:10:35] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27019, UDP)
+[2017-06-23 21:10:35] [1,2] ConnectionCompleted() (162.254.193.47:27018, UDP)
+[2017-06-23 21:10:36] [1,2] RecvMsgClientLogOnResponse() : [A:1:1541991428:8728] 'OK'
+[2017-06-23 23:23:56] [3,2] LogOff()
+[2017-06-23 23:23:56] [2,2] AsyncDisconnect()
+[2017-06-23 23:23:56] [2,2] Log session ended
+
+
+[2017-06-29 01:56:33] Log session started
+[2017-06-29 01:56:33] [0,0] SetSteamID( [A:1:0:0] )
+[2017-06-29 01:56:33] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.6:27017, UDP)
+[2017-06-29 01:56:34] [1,2] ConnectionCompleted() (162.254.193.6:27017, UDP)
+[2017-06-29 01:56:34] [1,2] RecvMsgClientLogOnResponse() : [A:1:41911298:8752] 'OK'
+[2017-06-29 01:58:59] [3,2] LogOff()
+[2017-06-29 01:58:59] [2,2] AsyncDisconnect()
+[2017-06-29 01:58:59] [2,2] Log session ended
+
+
+[2017-06-29 02:02:59] Log session started
+[2017-06-29 02:02:59] [0,0] SetSteamID( [A:1:0:0] )
+[2017-06-29 02:03:05] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.7:27020, UDP)
+[2017-06-29 02:03:05] [1,2] ConnectionCompleted() (162.254.193.7:27017, UDP)
+[2017-06-29 02:03:06] [1,2] RecvMsgClientLogOnResponse() : [A:1:102441988:8752] 'OK'
+[2017-06-29 02:07:07] [3,2] LogOff()
+[2017-06-29 02:07:07] [2,2] AsyncDisconnect()
+[2017-06-29 02:07:07] [2,2] Log session ended
+
+
+[2017-06-29 02:23:25] Log session started
+[2017-06-29 02:23:25] [0,0] SetSteamID( [A:1:0:0] )
+[2017-06-29 02:23:26] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.6:27021, UDP)
+[2017-06-29 02:23:26] [1,2] ConnectionCompleted() (162.254.193.7:27017, UDP)
+[2017-06-29 02:23:27] [1,2] RecvMsgClientLogOnResponse() : [A:1:239563778:8752] 'OK'
+[2017-06-29 02:25:29] [3,2] LogOff()
+[2017-06-29 02:25:29] [2,2] AsyncDisconnect()
+[2017-06-29 02:25:29] [2,2] Log session ended
+
+
+[2017-06-29 02:27:21] Log session started
+[2017-06-29 02:27:21] [0,0] SetSteamID( [A:1:0:0] )
+[2017-06-29 02:27:21] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27019, UDP)
+[2017-06-29 02:27:21] [1,2] ConnectionCompleted() (162.254.193.7:27021, UDP)
+[2017-06-29 02:27:22] [1,2] RecvMsgClientLogOnResponse() : [A:1:298488838:8752] 'OK'
+[2017-06-29 02:32:26] [3,2] LogOff()
+[2017-06-29 02:32:26] [2,2] AsyncDisconnect()
+[2017-06-29 02:32:26] [2,2] Log session ended
+
+
+[2017-06-29 02:33:57] Log session started
+[2017-06-29 02:33:57] [0,0] SetSteamID( [A:1:0:0] )
+[2017-06-29 02:33:57] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27021, UDP)
+[2017-06-29 02:33:58] [1,2] ConnectionCompleted() (162.254.193.47:27020, UDP)
+[2017-06-29 02:33:58] [1,2] RecvMsgClientLogOnResponse() : [A:1:354361348:8752] 'OK'
+[2017-06-29 02:46:54] [3,2] LogOff()
+[2017-06-29 02:46:54] [2,2] AsyncDisconnect()
+[2017-06-29 02:46:54] [2,2] Log session ended
+
+
+[2017-06-29 02:48:23] Log session started
+[2017-06-29 02:48:23] [0,0] SetSteamID( [A:1:0:0] )
+[2017-06-29 02:48:23] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27021, UDP)
+[2017-06-29 02:48:24] [1,2] ConnectionCompleted() (162.254.193.47:27020, UDP)
+[2017-06-29 02:48:24] [1,2] RecvMsgClientLogOnResponse() : [A:1:487622658:8752] 'OK'
+[2017-06-29 02:51:23] [3,2] LogOff()
+[2017-06-29 02:51:23] [2,2] AsyncDisconnect()
+[2017-06-29 02:51:23] [2,2] Log session ended
+
+
+[2017-06-29 02:54:08] Log session started
+[2017-06-29 02:54:08] [0,0] SetSteamID( [A:1:0:0] )
+[2017-06-29 02:54:08] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.47:27020, UDP)
+[2017-06-29 02:54:09] [1,2] ConnectionCompleted() (162.254.193.7:27017, UDP)
+[2017-06-29 02:54:09] [1,2] RecvMsgClientLogOnResponse() : [A:1:543086598:8752] 'OK'
+[2017-06-29 02:56:06] [3,2] LogOff()
+[2017-06-29 02:56:06] [2,2] AsyncDisconnect()
+[2017-06-29 02:56:06] [2,2] Log session ended
+
+
+[2017-06-29 02:58:22] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2017-06-29 02:58:22] [0,0] SetSteamID( [A:1:0:0] )
+[2017-06-29 02:58:22] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.47:27020, UDP)
+[2017-06-29 02:58:23] [1,2] ConnectionCompleted() (162.254.193.47:27020, UDP)
+[2017-06-29 02:58:23] [1,2] RecvMsgClientLogOnResponse() : [A:1:546248708:8752] 'OK'
+[2017-06-29 03:09:25] [3,2] LogOff()
+[2017-06-29 03:09:25] [2,2] AsyncDisconnect()
+[2017-06-29 03:09:25] [2,2] Log session ended
+
+
+[2017-06-29 03:10:55] Log session started
+[2017-06-29 03:10:55] [0,0] SetSteamID( [A:1:0:0] )
+[2017-06-29 03:10:56] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.6:27021, UDP)
+[2017-06-29 03:10:56] [1,2] ConnectionCompleted() (162.254.193.47:27017, UDP)
+[2017-06-29 03:10:56] [1,2] RecvMsgClientLogOnResponse() : [A:1:673649668:8752] 'OK'
+[2017-06-29 03:33:21] [3,2] LogOff()
+[2017-06-29 03:33:21] [2,2] AsyncDisconnect()
+[2017-06-29 03:33:21] [2,2] Log session ended
+
+
+[2017-06-29 03:35:05] Log session started
+[2017-06-29 03:35:05] [0,0] SetSteamID( [A:1:0:0] )
+[2017-06-29 03:35:05] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27018, UDP)
+[2017-06-29 03:35:06] [1,2] ConnectionCompleted() (162.254.193.7:27019, UDP)
+[2017-06-29 03:35:06] [1,2] RecvMsgClientLogOnResponse() : [A:1:932994048:8752] 'OK'
+[2017-06-29 03:38:01] [3,2] LogOff()
+[2017-06-29 03:38:01] [2,2] AsyncDisconnect()
+[2017-06-29 03:38:01] [2,2] Log session ended
+
+
+[2017-06-29 03:52:46] Log session started
+[2017-06-29 03:52:46] [0,0] SetSteamID( [A:1:0:0] )
+[2017-06-29 03:52:46] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.7:27020, UDP)
+[2017-06-29 03:52:47] [1,2] ConnectionCompleted() (162.254.193.7:27017, UDP)
+[2017-06-29 03:52:47] [1,2] RecvMsgClientLogOnResponse() : [A:1:1126550528:8752] 'OK'
+[2017-06-29 03:55:32] [3,2] LogOff()
+[2017-06-29 03:55:32] [2,2] AsyncDisconnect()
+[2017-06-29 03:55:32] [2,2] Log session ended
+
+
+[2017-06-29 03:57:03] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2017-06-29 03:57:03] [0,0] SetSteamID( [A:1:0:0] )
+[2017-06-29 03:57:03] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.47:27019, UDP)
+[2017-06-29 03:57:04] [1,2] ConnectionCompleted() (162.254.193.7:27019, UDP)
+[2017-06-29 03:57:04] [1,2] RecvMsgClientLogOnResponse() : [A:1:1130317828:8752] 'OK'
+[2017-06-29 04:01:16] [3,2] LogOff()
+[2017-06-29 04:01:16] [2,2] AsyncDisconnect()
+[2017-06-29 04:01:16] [2,2] Log session ended
+
+
+[2017-06-29 04:03:00] Log session started
+[2017-06-29 04:03:00] [0,0] SetSteamID( [A:1:0:0] )
+[2017-06-29 04:03:00] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.6:27020, UDP)
+[2017-06-29 04:03:01] [1,2] ConnectionCompleted() (162.254.193.6:27020, UDP)
+[2017-06-29 04:03:01] [1,2] RecvMsgClientLogOnResponse() : [A:1:1181516808:8752] 'OK'
+[2017-06-29 04:06:03] [3,2] LogOff()
+[2017-06-29 04:06:03] [2,2] AsyncDisconnect()
+[2017-06-29 04:06:03] [2,2] Log session ended
+
+
+[2017-06-29 04:08:27] Log session started
+[2017-06-29 04:08:27] [0,0] SetSteamID( [A:1:0:0] )
+[2017-06-29 04:08:27] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.6:27018, UDP)
+[2017-06-29 04:08:28] [1,2] ConnectionCompleted() (162.254.193.6:27020, UDP)
+[2017-06-29 04:08:28] [1,2] RecvMsgClientLogOnResponse() : [A:1:1247598598:8752] 'OK'
+[2017-06-29 04:11:24] [3,2] LogOff()
+[2017-06-29 04:11:24] [2,2] AsyncDisconnect()
+[2017-06-29 04:11:24] [2,2] Log session ended
+
+
+[2017-06-29 04:12:52] Log session started
+[2017-06-29 04:12:52] [0,0] SetSteamID( [A:1:0:0] )
+[2017-06-29 04:12:52] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27018, UDP)
+[2017-06-29 04:12:53] [1,2] ConnectionCompleted() (162.254.193.7:27017, UDP)
+[2017-06-29 04:12:53] [1,2] RecvMsgClientLogOnResponse() : [A:1:1338489858:8752] 'OK'
+[2017-06-29 04:15:58] [3,2] LogOff()
+[2017-06-29 04:15:58] [2,2] AsyncDisconnect()
+[2017-06-29 04:15:58] [2,2] Log session ended
+
+
+[2017-07-01 16:50:20] Log session started
+[2017-07-01 16:50:20] [0,0] SetSteamID( [A:1:0:0] )
+[2017-07-01 16:50:20] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.47:27020, UDP)
+[2017-07-01 16:50:21] [1,2] ConnectionCompleted() (162.254.193.47:27020, UDP)
+[2017-07-01 16:50:21] [1,2] RecvMsgClientLogOnResponse() : [A:1:3863534598:8773] 'OK'
+[2017-07-01 19:49:14] [3,2] LogOff()
+[2017-07-01 19:49:14] [2,2] AsyncDisconnect()
+[2017-07-01 19:49:14] [2,2] Log session ended
+
+
+[2017-07-01 19:52:29] Log session started
+[2017-07-01 19:52:29] [0,0] SetSteamID( [A:1:0:0] )
+[2017-07-01 19:52:30] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27018, UDP)
+[2017-07-01 19:52:30] [1,2] ConnectionCompleted() (162.254.193.47:27020, UDP)
+[2017-07-01 19:52:30] [1,2] RecvMsgClientLogOnResponse() : [A:1:1451510788:8774] 'OK'
+[2017-07-01 22:51:25] [3,2] LogOff()
+[2017-07-01 22:51:25] [2,2] AsyncDisconnect()
+[2017-07-01 22:51:25] [2,2] Log session ended
+
+
+[2017-07-02 00:10:59] Log session started
+[2017-07-02 00:10:59] [0,0] SetSteamID( [A:1:0:0] )
+[2017-07-02 00:11:13] [0,0] LogOff()
+[2017-07-02 00:11:13] [0,0] Log session ended
+
+
+[2017-07-02 00:14:48] Log session started
+[2017-07-02 00:14:48] [0,0] SetSteamID( [A:1:0:0] )
+[2017-07-02 00:14:48] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.7:27020, UDP)
+[2017-07-02 00:14:49] [1,2] ConnectionCompleted() (162.254.193.47:27020, UDP)
+[2017-07-02 00:14:49] [1,2] RecvMsgClientLogOnResponse() : [A:1:3702546438:8774] 'OK'
+[2017-07-02 01:21:03] [3,2] LogOff()
+[2017-07-02 01:21:03] [2,2] AsyncDisconnect()
+[2017-07-02 01:21:03] [2,2] Log session ended
+
+
+[2017-07-02 10:03:59] Log session started
+[2017-07-02 10:03:59] [0,0] SetSteamID( [A:1:0:0] )
+[2017-07-02 10:03:59] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27018, UDP)
+[2017-07-02 10:04:00] [1,2] ConnectionCompleted() (162.254.193.7:27017, UDP)
+[2017-07-02 10:04:00] [1,2] RecvMsgClientLogOnResponse() : [A:1:3727910918:8776] 'OK'
+[2017-07-02 10:43:18] [3,2] LogOff()
+[2017-07-02 10:43:18] [2,2] AsyncDisconnect()
+[2017-07-02 10:43:18] [2,2] Log session ended
+
+
+[2017-07-02 12:20:52] Log session started
+[2017-07-02 12:20:52] [0,0] SetSteamID( [A:1:0:0] )
+[2017-07-02 12:20:52] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.7:27019, UDP)
+[2017-07-02 12:20:53] [1,2] ConnectionCompleted() (162.254.193.6:27021, UDP)
+[2017-07-02 12:20:53] [1,2] RecvMsgClientLogOnResponse() : [A:1:1447993348:8777] 'OK'
+
+
+[2017-07-02 12:23:41] Log session started
+[2017-07-02 12:23:41] [0,0] SetSteamID( [A:1:0:0] )
+[2017-07-02 12:23:41] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.47:27017, UDP)
+[2017-07-02 12:23:42] [1,2] ConnectionCompleted() (162.254.193.47:27017, UDP)
+[2017-07-02 12:23:42] [1,2] RecvMsgClientLogOnResponse() : [A:1:1450951688:8777] 'OK'
+
+
+[2017-07-02 12:26:00] Log session started
+[2017-07-02 12:26:00] [0,0] SetSteamID( [A:1:0:0] )
+[2017-07-02 12:26:00] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.6:27017, UDP)
+[2017-07-02 12:26:04] [1,2] ConnectionCompleted() (162.254.193.47:27017, UDP)
+[2017-07-02 12:26:04] [1,2] RecvMsgClientLogOnResponse() : [A:1:1964370948:8777] 'OK'
+
+
+[2017-07-02 12:28:25] Log session started
+[2017-07-02 12:28:25] [0,0] SetSteamID( [A:1:0:0] )
+[2017-07-02 12:28:25] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.7:27021, UDP)
+[2017-07-02 12:28:26] [1,2] ConnectionCompleted() (162.254.193.46:27018, UDP)
+[2017-07-02 12:28:26] [1,2] RecvMsgClientLogOnResponse() : [A:1:1966913538:8777] 'OK'
+
+
+[2017-07-02 12:31:36] Log session started
+[2017-07-02 12:31:36] [0,0] SetSteamID( [A:1:0:0] )
+[2017-07-02 12:31:36] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27017, UDP)
+[2017-07-02 12:31:36] [1,2] ConnectionCompleted() (162.254.193.6:27020, UDP)
+[2017-07-02 12:31:37] [1,2] RecvMsgClientLogOnResponse() : [A:1:1638129668:8778] 'OK'
+[2017-07-02 12:46:15] [3,2] LogOff()
+[2017-07-02 12:46:15] [2,2] AsyncDisconnect()
+[2017-07-02 12:46:15] [2,2] Log session ended
+
+
+[2017-07-02 13:46:51] Log session started
+[2017-07-02 13:46:51] [0,0] SetSteamID( [A:1:0:0] )
+[2017-07-02 13:46:51] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.47:27020, UDP)
+[2017-07-02 13:46:52] [1,2] ConnectionCompleted() (162.254.193.47:27020, UDP)
+[2017-07-02 13:46:52] [1,2] RecvMsgClientLogOnResponse() : [A:1:3675621378:8778] 'OK'
+[2017-07-02 13:47:30] [3,2] LogOff()
+[2017-07-02 13:47:30] [2,2] AsyncDisconnect()
+[2017-07-02 13:47:30] [2,2] Log session ended
+
+
+[2017-07-02 13:49:24] Log session started
+[2017-07-02 13:49:24] [0,0] SetSteamID( [A:1:0:0] )
+[2017-07-02 13:49:24] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.6:27018, UDP)
+[2017-07-02 13:49:25] [1,2] ConnectionCompleted() (162.254.193.47:27018, UDP)
+[2017-07-02 13:49:25] [1,2] RecvMsgClientLogOnResponse() : [A:1:3678114818:8778] 'OK'
+
+
+[2017-07-02 13:52:00] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2017-07-02 13:52:00] [0,0] SetSteamID( [A:1:0:0] )
+[2017-07-02 13:52:01] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.6:27021, UDP)
+[2017-07-02 13:52:01] [1,2] ConnectionCompleted() (162.254.193.6:27018, UDP)
+[2017-07-02 13:52:01] [1,2] RecvMsgClientLogOnResponse() : [A:1:3731929088:8778] 'OK'
+[2017-07-02 16:50:50] [3,2] LogOff()
+[2017-07-02 16:50:50] [2,2] AsyncDisconnect()
+[2017-07-02 16:50:50] [2,2] Log session ended
+
+
+[2017-07-02 18:31:09] Log session started
+[2017-07-02 18:31:09] [0,0] SetSteamID( [A:1:0:0] )
+[2017-07-02 18:31:11] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.6:27020, UDP)
+[2017-07-02 18:31:11] [1,2] ConnectionCompleted() (162.254.193.46:27019, UDP)
+[2017-07-02 18:31:12] [1,2] RecvMsgClientLogOnResponse() : [A:1:3174457348:8779] 'OK'
+[2017-07-02 18:33:36] [3,2] LogOff()
+[2017-07-02 18:33:36] [2,2] AsyncDisconnect()
+[2017-07-02 18:33:36] [2,2] Log session ended
+
+
+[2017-07-02 18:35:22] Log session started
+[2017-07-02 18:35:22] [0,0] SetSteamID( [A:1:0:0] )
+[2017-07-02 18:35:22] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27018, UDP)
+[2017-07-02 18:35:23] [1,2] ConnectionCompleted() (162.254.193.47:27020, UDP)
+[2017-07-02 18:35:23] [1,2] RecvMsgClientLogOnResponse() : [A:1:3176886278:8779] 'OK'
+[2017-07-02 21:34:25] [3,2] LogOff()
+[2017-07-02 21:34:25] [2,2] AsyncDisconnect()
+[2017-07-02 21:34:25] [2,2] Log session ended
+
+
+[2017-07-04 21:16:13] Log session started
+[2017-07-04 21:16:13] [0,0] SetSteamID( [A:1:0:0] )
+[2017-07-04 21:16:13] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.7:27020, UDP)
+[2017-07-04 21:16:14] [1,2] ConnectionCompleted() (162.254.193.46:27017, UDP)
+[2017-07-04 21:16:14] [1,2] RecvMsgClientLogOnResponse() : [A:1:675696648:8790] 'OK'
+[2017-07-05 00:15:13] [3,2] LogOff()
+[2017-07-05 00:15:13] [2,2] AsyncDisconnect()
+[2017-07-05 00:15:13] [2,2] Log session ended
+
+
+[2017-07-07 13:36:41] Log session started
+[2017-07-07 13:36:41] [0,0] SetSteamID( [A:1:0:0] )
+[2017-07-07 13:36:41] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27017, UDP)
+[2017-07-07 13:36:42] [1,2] ConnectionCompleted() (162.254.193.7:27017, UDP)
+[2017-07-07 13:36:42] [1,2] RecvMsgClientLogOnResponse() : [A:1:3966312448:8802] 'OK'
+[2017-07-07 15:02:00] [3,2] LogOff()
+[2017-07-07 15:02:00] [2,2] AsyncDisconnect()
+[2017-07-07 15:02:00] [2,2] Log session ended
+
+
+[2017-07-08 16:10:55] Log session started
+[2017-07-08 16:10:55] [0,0] SetSteamID( [A:1:0:0] )
+[2017-07-08 16:10:55] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.47:27017, UDP)
+[2017-07-08 16:10:55] [1,2] ConnectionCompleted() (162.254.193.47:27017, UDP)
+[2017-07-08 16:10:55] [1,2] RecvMsgClientLogOnResponse() : [A:1:1994122248:8808] 'OK'
+[2017-07-08 16:44:35] [3,2] LogOff()
+[2017-07-08 16:44:35] [2,2] AsyncDisconnect()
+[2017-07-08 16:44:35] [2,2] Log session ended
+
+
+[2017-07-08 20:50:58] Log session started
+[2017-07-08 20:50:58] [0,0] SetSteamID( [A:1:0:0] )
+[2017-07-08 20:50:58] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.6:27019, UDP)
+[2017-07-08 20:51:01] [1,2] ConnectionCompleted() (162.254.193.7:27018, UDP)
+[2017-07-08 20:51:02] [1,2] RecvMsgClientLogOnResponse() : [A:1:793714688:8809] 'OK'
+[2017-07-08 21:41:03] [3,2] LogOff()
+[2017-07-08 21:41:03] [2,2] AsyncDisconnect()
+[2017-07-08 21:41:03] [2,2] Log session ended
+
+
+[2017-07-08 22:39:28] Log session started
+[2017-07-08 22:39:28] [0,0] SetSteamID( [A:1:0:0] )
+[2017-07-08 22:39:28] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.47:27017, UDP)
+[2017-07-08 22:39:29] [1,2] ConnectionCompleted() (162.254.193.46:27017, UDP)
+[2017-07-08 22:39:29] [1,2] RecvMsgClientLogOnResponse() : [A:1:1963743238:8809] 'OK'
+[2017-07-09 01:37:41] [3,2] LogOff()
+[2017-07-09 01:37:41] [2,2] AsyncDisconnect()
+[2017-07-09 01:37:41] [2,2] Log session ended
+
+
+[2017-07-09 01:39:15] Log session started
+[2017-07-09 01:39:15] [0,0] SetSteamID( [A:1:0:0] )
+[2017-07-09 01:39:15] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.6:27020, UDP)
+[2017-07-09 01:39:16] [1,2] ConnectionCompleted() (162.254.193.7:27019, UDP)
+[2017-07-09 01:39:16] [1,2] RecvMsgClientLogOnResponse() : [A:1:3609178118:8809] 'OK'
+
+
+[2017-07-09 01:41:18] Log session started
+[2017-07-09 01:41:18] [0,0] SetSteamID( [A:1:0:0] )
+[2017-07-09 01:41:18] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.6:27021, UDP)
+[2017-07-09 01:41:19] [1,2] ConnectionCompleted() (162.254.193.46:27018, UDP)
+[2017-07-09 01:41:19] [1,2] RecvMsgClientLogOnResponse() : [A:1:3610760198:8809] 'OK'
+
+
+[2017-07-09 01:43:33] Log session started
+[2017-07-09 01:43:33] [0,0] SetSteamID( [A:1:0:0] )
+[2017-07-09 01:43:33] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.7:27019, UDP)
+[2017-07-09 01:43:34] [1,2] ConnectionCompleted() (162.254.193.7:27019, UDP)
+[2017-07-09 01:43:34] [1,2] RecvMsgClientLogOnResponse() : [A:1:3612467208:8809] 'OK'
+
+
+[2017-07-09 01:45:42] Log session started
+[2017-07-09 01:45:42] [0,0] SetSteamID( [A:1:0:0] )
+[2017-07-09 01:45:42] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27018, UDP)
+[2017-07-09 01:45:43] [1,2] ConnectionCompleted() (162.254.193.7:27017, UDP)
+[2017-07-09 01:45:43] [1,2] RecvMsgClientLogOnResponse() : [A:1:3670496258:8809] 'OK'
+
+
+[2017-07-09 01:48:10] Log session started
+[2017-07-09 01:48:10] [0,0] SetSteamID( [A:1:0:0] )
+[2017-07-09 01:48:10] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.6:27020, UDP)
+[2017-07-09 01:48:11] [1,2] ConnectionCompleted() (72.165.61.185:27017, UDP)
+[2017-07-09 01:48:11] [1,2] RecvMsgClientLogOnResponse() : [A:1:3672464388:8809] 'OK'
+
+
+[2017-07-09 01:50:39] Log session started
+[2017-07-09 01:50:39] [0,0] SetSteamID( [A:1:0:0] )
+[2017-07-09 01:50:39] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.47:27019, UDP)
+[2017-07-09 01:50:40] [1,2] ConnectionCompleted() (162.254.193.6:27021, UDP)
+[2017-07-09 01:50:40] [1,2] RecvMsgClientLogOnResponse() : [A:1:3674393608:8809] 'OK'
+[2017-07-09 02:37:57] [3,2] LogOff()
+[2017-07-09 02:37:57] [2,2] AsyncDisconnect()
+[2017-07-09 02:37:57] [2,2] Log session ended
+
+
+[2017-07-09 14:04:43] Log session started
+[2017-07-09 14:04:43] [0,0] SetSteamID( [A:1:0:0] )
+[2017-07-09 14:04:43] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27018, UDP)
+[2017-07-09 14:04:44] [1,2] ConnectionCompleted() (162.254.193.7:27019, UDP)
+[2017-07-09 14:04:44] [1,2] RecvMsgClientLogOnResponse() : [A:1:1387186178:8812] 'OK'
+[2017-07-09 16:53:30] [3,2] LogOff()
+[2017-07-09 16:53:30] [2,2] AsyncDisconnect()
+[2017-07-09 16:53:30] [2,2] Log session ended
+
+
+[2017-07-09 17:36:46] Log session started
+[2017-07-09 17:36:46] [0,0] SetSteamID( [A:1:0:0] )
+[2017-07-09 17:36:46] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.47:27019, UDP)
+[2017-07-09 17:36:47] [1,2] ConnectionCompleted() (162.254.193.47:27020, UDP)
+[2017-07-09 17:36:47] [1,2] RecvMsgClientLogOnResponse() : [A:1:3881496578:8812] 'OK'
+[2017-07-09 18:02:19] [3,2] LogOff()
+[2017-07-09 18:02:19] [2,2] AsyncDisconnect()
+[2017-07-09 18:02:19] [2,2] Log session ended
+
+
+[2017-07-09 18:04:21] Log session started
+[2017-07-09 18:04:21] [0,0] SetSteamID( [A:1:0:0] )
+[2017-07-09 18:04:22] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.47:27020, UDP)
+[2017-07-09 18:04:23] [1,2] ConnectionCompleted() (162.254.193.46:27018, UDP)
+[2017-07-09 18:04:23] [1,2] RecvMsgClientLogOnResponse() : [A:1:4081651718:8812] 'OK'
+
+
+[2017-07-09 20:01:45] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2017-07-09 20:01:45] [0,0] SetSteamID( [A:1:0:0] )
+[2017-07-09 20:01:45] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.7:27021, UDP)
+[2017-07-09 20:01:46] [1,2] ConnectionCompleted() (162.254.193.7:27021, UDP)
+[2017-07-09 20:01:46] [1,2] RecvMsgClientLogOnResponse() : [A:1:2147995648:8813] 'OK'
+
+
+[2017-07-09 23:01:48] Log session started
+[2017-07-09 23:01:48] [0,0] SetSteamID( [A:1:0:0] )
+[2017-07-09 23:01:48] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.47:27018, UDP)
+[2017-07-09 23:01:49] [1,2] ConnectionCompleted() (208.78.164.10:27018, UDP)
+[2017-07-09 23:01:49] [1,2] RecvMsgClientLogOnResponse() : [A:1:4039525378:8813] 'OK'
+[2017-07-10 00:51:39] [3,2] LogOff()
+[2017-07-10 00:51:39] [2,2] AsyncDisconnect()
+[2017-07-10 00:51:39] [2,2] Log session ended
+
+
+[2017-07-10 00:58:14] Log session started
+[2017-07-10 00:58:14] [0,0] SetSteamID( [A:1:0:0] )
+[2017-07-10 00:58:14] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.47:27020, UDP)
+[2017-07-10 00:58:15] [1,2] ConnectionCompleted() (162.254.193.7:27019, UDP)
+[2017-07-10 00:58:15] [1,2] RecvMsgClientLogOnResponse() : [A:1:563575808:8814] 'OK'
+[2017-07-10 01:11:27] [3,2] LogOff()
+[2017-07-10 01:11:27] [2,2] AsyncDisconnect()
+[2017-07-10 01:11:27] [2,2] Log session ended
+
+
+[2017-07-10 01:55:04] Log session started
+[2017-07-10 01:55:04] [0,0] SetSteamID( [A:1:0:0] )
+[2017-07-10 01:55:05] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.47:27020, UDP)
+[2017-07-10 01:55:05] [1,2] ConnectionCompleted() (162.254.193.47:27020, UDP)
+[2017-07-10 01:55:06] [1,2] RecvMsgClientLogOnResponse() : [A:1:1230659588:8814] 'OK'
+[2017-07-10 02:06:23] [3,2] LogOff()
+[2017-07-10 02:06:23] [2,2] AsyncDisconnect()
+[2017-07-10 02:06:23] [2,2] Log session ended
+
+
+[2017-07-10 02:27:30] Log session started
+[2017-07-10 02:27:30] [0,0] SetSteamID( [A:1:0:0] )
+[2017-07-10 02:27:30] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.47:27021, UDP)
+[2017-07-10 02:27:31] [1,2] ConnectionCompleted() (162.254.193.47:27021, UDP)
+[2017-07-10 02:27:31] [1,2] RecvMsgClientLogOnResponse() : [A:1:1491636228:8814] 'OK'
+
+
+[2017-07-10 02:30:03] Log session started
+[2017-07-10 02:30:03] [0,0] SetSteamID( [A:1:0:0] )
+[2017-07-10 02:30:04] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.7:27017, UDP)
+[2017-07-10 02:30:07] [1,2] ConnectionCompleted() (162.254.193.7:27017, UDP)
+[2017-07-10 02:30:07] [1,2] RecvMsgClientLogOnResponse() : [A:1:1559852038:8814] 'OK'
+
+
+[2017-07-10 02:31:57] Log session started
+[2017-07-10 02:31:57] [0,0] SetSteamID( [A:1:0:0] )
+[2017-07-10 02:31:57] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27019, UDP)
+[2017-07-10 02:31:57] [1,2] ConnectionCompleted() (162.254.193.7:27019, UDP)
+[2017-07-10 02:31:57] [1,2] RecvMsgClientLogOnResponse() : [A:1:1561075718:8814] 'OK'
+[2017-07-10 02:42:37] [3,2] LogOff()
+[2017-07-10 02:42:37] [2,2] AsyncDisconnect()
+[2017-07-10 02:42:37] [2,2] Log session ended
+
+
+[2017-07-10 02:59:00] Log session started
+[2017-07-10 02:59:00] [0,0] SetSteamID( [A:1:0:0] )
+[2017-07-10 02:59:01] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27018, UDP)
+[2017-07-10 02:59:01] [1,2] ConnectionCompleted() (162.254.193.46:27019, UDP)
+[2017-07-10 02:59:01] [1,2] RecvMsgClientLogOnResponse() : [A:1:1763490818:8814] 'OK'
+[2017-07-10 03:12:47] [3,2] LogOff()
+[2017-07-10 03:12:47] [2,2] AsyncDisconnect()
+[2017-07-10 03:12:47] [2,2] Log session ended
+
+
+[2017-07-10 03:14:00] Log session started
+[2017-07-10 03:14:00] [0,0] SetSteamID( [A:1:0:0] )
+[2017-07-10 03:14:00] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.6:27021, UDP)
+[2017-07-10 03:14:01] [1,2] ConnectionCompleted() (162.254.193.47:27019, UDP)
+[2017-07-10 03:14:01] [1,2] RecvMsgClientLogOnResponse() : [A:1:2321901568:8814] 'OK'
+[2017-07-10 03:17:41] [3,2] LogOff()
+[2017-07-10 03:17:41] [2,2] AsyncDisconnect()
+[2017-07-10 03:17:41] [2,2] Log session ended
+
+
+[2017-07-10 19:24:55] Log session started
+[2017-07-10 19:24:55] [0,0] SetSteamID( [A:1:0:0] )
+[2017-07-10 19:24:55] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.6:27021, UDP)
+[2017-07-10 19:24:56] [1,2] ConnectionCompleted() (162.254.193.6:27021, UDP)
+[2017-07-10 19:24:56] [1,2] RecvMsgClientLogOnResponse() : [A:1:811986948:8818] 'OK'
+[2017-07-10 19:27:59] [3,2] LogOff()
+[2017-07-10 19:27:59] [2,2] AsyncDisconnect()
+[2017-07-10 19:27:59] [2,2] Log session ended
+
+
+[2017-07-10 19:50:07] Log session started
+[2017-07-10 19:50:07] [0,0] SetSteamID( [A:1:0:0] )
+[2017-07-10 19:50:07] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.6:27021, UDP)
+[2017-07-10 19:50:08] [1,2] ConnectionCompleted() (162.254.193.6:27018, UDP)
+[2017-07-10 19:50:08] [1,2] RecvMsgClientLogOnResponse() : [A:1:1004280838:8818] 'OK'
+[2017-07-10 19:57:06] [3,2] LogOff()
+[2017-07-10 19:57:06] [2,2] AsyncDisconnect()
+[2017-07-10 19:57:06] [2,2] Log session ended
+
+
+[2017-07-10 20:14:07] Log session started
+[2017-07-10 20:14:07] [0,0] SetSteamID( [A:1:0:0] )
+[2017-07-10 20:14:07] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.6:27019, UDP)
+[2017-07-10 20:14:08] [1,2] ConnectionCompleted() (162.254.193.7:27017, UDP)
+[2017-07-10 20:14:08] [1,2] RecvMsgClientLogOnResponse() : [A:1:1621626888:8818] 'OK'
+[2017-07-10 20:23:21] [3,2] LogOff()
+[2017-07-10 20:23:21] [2,2] AsyncDisconnect()
+[2017-07-10 20:23:21] [2,2] Log session ended
+
+
+[2017-07-10 20:33:06] Log session started
+[2017-07-10 20:33:06] [0,0] SetSteamID( [A:1:0:0] )
+[2017-07-10 20:33:06] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.6:27020, UDP)
+[2017-07-10 20:33:07] [1,2] ConnectionCompleted() (162.254.193.47:27017, UDP)
+[2017-07-10 20:33:07] [1,2] RecvMsgClientLogOnResponse() : [A:1:1800960008:8818] 'OK'
+[2017-07-10 20:34:53] [3,2] LogOff()
+[2017-07-10 20:34:53] [2,2] AsyncDisconnect()
+[2017-07-10 20:34:53] [2,2] Log session ended
+
+
+[2017-07-10 21:01:53] Log session started
+[2017-07-10 21:01:53] [0,0] SetSteamID( [A:1:0:0] )
+[2017-07-10 21:01:53] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.47:27017, UDP)
+[2017-07-10 21:01:54] [1,2] ConnectionCompleted() (162.254.193.47:27021, UDP)
+[2017-07-10 21:01:54] [1,2] RecvMsgClientLogOnResponse() : [A:1:2015682568:8818] 'OK'
+[2017-07-10 21:05:38] [3,2] LogOff()
+[2017-07-10 21:05:38] [2,2] AsyncDisconnect()
+[2017-07-10 21:05:38] [2,2] Log session ended

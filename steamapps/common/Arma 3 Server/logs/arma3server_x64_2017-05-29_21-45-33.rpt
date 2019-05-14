@@ -1,0 +1,24 @@
+=====================================================================
+== C:\Users\xdelt\Desktop\Exile Server Chernarus\steamapps\common\Arma 3 Server\arma3server_x64.exe
+== "arma3server_x64.exe"  -port=2302 "-config=@ExileServer\Config.cfg" "-profiles=logs" "-cfg=@ExileServer\basic.cfg" -name=SC "-mod=@Exile;@CBA_A3;@CUP_Terrains_Core;@CUP_Terrains_Maps;@CUP_Units;@CUP_Vehicles;@CUP_Weapons;@TRYK;@NATO_Rus_Vehicles;@NATO_Rus_Weapons;@Extended_Items;@Ryanzombies;@Extended_Base;@RDSCiv;" "-serverMod=@ExileServer;" -world=empty -nosplash -noSound -noPause -enableHT -malloc=system -autoinit
+
+Original output filename: Arma3Retail_Server_x64
+Exe timestamp: 2017/05/16 12:06:05
+Current time:  2017/05/29 21:45:33
+
+Type: Public
+Build: Stable
+Version: 1.70.141764
+
+Allocator: Windows
+PhysMem: 8.0 GiB, VirtMem : 131072 GiB, AvailPhys : 6.1 GiB, AvailVirt : 131072 GiB, AvailPage : 8.7 GiB
+=====================================================================
+
+21:45:33 SteamAPI initialization failed. Steam features won't be accessible!
+21:45:33 Cannot register unknown string STR_VIV_GETIN
+21:45:33 Cannot register unknown string STR_VIV_DROP
+21:45:33 Cannot register unknown string STR_VIV_UNLOAD
+21:45:33 Source set
+21:45:34 Initializing stats manager.
+21:45:34 Stats config disabled.
+21:45:34 sessionID: 8c7fd3da45cb38883047a96127332e095989f88a
